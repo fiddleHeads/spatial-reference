@@ -13,7 +13,7 @@ has_toc: false
 
 This workshop is intended to familiarize participants with foundational knowledge for working with spatial data. By the end of the workshop participants will be able to:
 
-- describe what a Coordinate Reference System is
+- describe what a coordinate reference system is
 - describe what a map projection is
 - understand what a transformation is
 - define a projection
