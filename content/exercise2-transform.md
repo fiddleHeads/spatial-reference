@@ -7,6 +7,7 @@ parent: Exercises
 
 
 NOTE: will need data to download for this exercise
+
 Questions: What platform should I use?
 
 ## Exercise 2: Transformations
