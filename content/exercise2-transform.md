@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise 2: Transformations
+title: Exercise 2 - Transformations
 nav_order: 10
 parent: Exercises
 ---
