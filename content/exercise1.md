@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Exercise
-What coordinate system is my data in?
+title: Exercise 1: What coordinate system is my data in?
 nav_order: 8
 ---
 
