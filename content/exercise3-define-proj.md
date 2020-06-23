@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Exercise 3: Define a Different Projection
+title: Exercise 3 - Define a Different Projection
 nav_order: 11
 parent: Exercises
 ---
