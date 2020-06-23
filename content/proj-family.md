@@ -7,8 +7,8 @@ parent: Map Projections
 
 ## Map Projection Families
 
-# Planar Projections
+### Planar Projections
 
-# Cylindrical Projections
+### Cylindrical Projections
 
-# Conical Projections
+### Conical Projections
