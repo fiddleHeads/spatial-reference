@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Exercise 2
-Transformations
-nav_order: 8
+title: Exercise 2: Transformations
+nav_order: 9
 ---
 
 NOTE: will need data to download for this exercise
