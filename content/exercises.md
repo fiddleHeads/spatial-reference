@@ -2,7 +2,7 @@
 layout: default
 title: Exercises
 nav_order: 8
-has children = true
+has_children: true
 ---
 
 ## Exercises
