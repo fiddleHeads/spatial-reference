@@ -7,7 +7,7 @@ has_toc: false
 ---
 ## Note: this workshop is in development and not yet complete.
 
-# Understanding Spatial Reference Systems and Map Projections
+# Foundations for Spatial Analysis: Understanding Map Projections
 
 ## Goals
 
