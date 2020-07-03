@@ -31,15 +31,13 @@ If neither of these are an option for you, you can still follow along and apply 
 
 This introductory video will set the stage for what this workshop is all about.
 
-d<iframe src="https://www.youtube.com/watch?v=kIID5FDi2JQ" frameborder="0" height="600" width="100%"> </iframe>
-
-[![Why all world maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
+[Why all world maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 
 ## Key Points
 
-* *1*{: .circle .circle-blue} `The surface of a sphere cannot be represented as a plane without distortion.`
-* *2*{: .circle .circle-red} `A projection is the process by which we translate (or project) the spherical globe onto a flat surface.`
-* *3*{: .circle .circle-yellow} `The boject onto which maps are projected (i.e. cylinder, cone, or plane) affects the way the map appears.`
+* The surface of a sphere cannot be represented as a plane without distortion.`
+*2*{: .circle .circle-red} `A projection is the process by which we translate (or project) the spherical globe onto a flat surface.`
+* *3*{: .circle .circle-yellow} `The object onto which maps are projected (i.e. cylinder, cone, or plane) affects the way the map appears.`
 * *4*{: .circle .circle-green} `All map projections come with tradeoffs in terms of shape, distance, size, etc.`
 * *5*{: .circle .circle-purple} `Map projections can be useful, but they can also be misleading.` 
 
