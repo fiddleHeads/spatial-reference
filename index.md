@@ -16,5 +16,8 @@ This workshop is intended to familiarize participants with foundational knowledg
 - describe what a coordinate reference system is
 - describe what a map projection is
 - understand what a transformation is
-- define a projection
+- know how to define a projection in GIS
 - find additional resources
+
+
+[![Why all world maps are wrong]({image-url})]({https://www.youtube.com/watch?v=kIID5FDi2JQ} "Why all world maps are wrong")
