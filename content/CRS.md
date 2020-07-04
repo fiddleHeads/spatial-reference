@@ -9,11 +9,32 @@ has_children: true
 
 Now I'm going to complicate things a bit by introducing the term **coordinate reference system (CRS),** of which projections are a part.
 
-Simply put, a **CRS** is a way to reference a location in the world. 
+Let's break down the term a bit.
 
-- geospatial datasets use CRS to characterize the locations and shapes of things at or near the surface of the earth
+You're all familiar with a coordinate system from 7th grade geometry, which defines a location in 2-dimensional space on an XY axis.
 
-What are some ways you can think of that we define location?
+![cartesian](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/555px-2D_Cartesian_Coordinates.svg.png)
+
+So, what's the problem?
+
+We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical.
+
+So we need a coordinate system that adapts to the Earth's shape.
+
+A **CRS** does this by defining the translation between a location on the earth and that location on a flattened, 2 dimensional coordinate system. 
+
+A **CRS** is comprised of:
+
+- Coordinate system: XY grid
+- Horizontal and vertical units: units used to define the grid along XY(and Z) axis
+- Datum: A model of the earth
+- Projection information: mathematical equation used to project objects on the surface of the earth onto a flat surface, i.e. a paper map or a computer screen.
+
+![cartesianSpherical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cartSpherical.jpg)
+
+
+What are some ways you can think of to locate something in space?
+
 
 Latitude and longitude are a common way to define location. 
 But these are angular measures, not measures of distance.
@@ -21,5 +42,6 @@ In order to understand distances between places on the surface of the earth and 
 
 
 
-defines the translation between a location on the round earth and that same location, on a flattened, 2 dimensional coordinate system. 
 
+
+This section references ideas and phrases from [Earth Lab](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/), [pbc GIS](http://pbcgis.com/projection_fundamentals/), and [ArcGIS Blog](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/coordinate-systems-difference/#spatial).
