@@ -19,10 +19,9 @@ This introductory video will set the stage for what this workshop is all about.
 * All map projections come with tradeoffs in terms of shape, distance, size, etc.
 * Map projections can be useful, but they can also be misleading.
 
-Who remembers which projection Google Maps uses and why?
-{: .question}
+> ### Who remembers which projection Google Maps uses and why?
 
 
-Visualization of different map projections.
+**Visualization of different map projections.**
 
 <iframe src="content/visualization.html" frameborder="0" height="600" width="100%"> </iframe>
