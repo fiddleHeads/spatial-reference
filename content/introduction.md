@@ -20,7 +20,9 @@ This introductory video will set the stage for what this workshop is all about.
 * Map projections can be useful, but they can also be misleading.
 
 Who remembers which projection Google Maps uses and why?
+{: .question}
 
-What is a spatial reference system?
+
+Visualization of different map projections.
 
 <iframe src="content/visualization.html" frameborder="0" height="600" width="100%"> </iframe>
