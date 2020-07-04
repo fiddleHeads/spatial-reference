@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coordinate Reference Systems
+title: Coordinate Reference System
 nav_order: 5
 has_children: true
 ---
@@ -17,31 +17,26 @@ You're all familiar with a coordinate system from 7th grade geometry, which defi
 
 So, what's the problem?
 
-We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical.
+We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical. The shape of the earth can more accurately be described as an ellipsoid.
 
 So we need a coordinate system that adapts to the Earth's shape.
 
 A **CRS** does this by defining the translation between a location on the earth and that location on a flattened, 2 dimensional coordinate system. 
 
-A **CRS** is comprised of:
+A **CRS** comprises:
 
-- Coordinate system: XY grid
-- Horizontal and vertical units: units used to define the grid along XY(and Z) axis
-- Datum: A model of the earth
-- Projection information: mathematical equation used to project objects on the surface of the earth onto a flat surface, i.e. a paper map or a computer screen.
+- **Coordinate system**: XY grid
+- **Horizontal and vertical units**: units used to define the grid along XY(and Z) axis
+- **Datum**: A model of the earth
+- **Projection**: mathematical equation used to project objects on the surface of the earth onto a flat surface, i.e. a paper map or a computer screen.
 
 ![cartesianSpherical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cartSpherical.jpg)
 
-
-What are some ways you can think of to locate something in space?
-
-
-Latitude and longitude are a common way to define location. 
-But these are angular measures, not measures of distance.
-In order to understand distances between places on the surface of the earth and to be able to display on a map something that represents a proportional scale, direction, and shape relative to the things and relationships being represented
+At this point you might be wondering what a datum is. We'll address this in the next section before we go on to talk about two different kinds of coordinate systems used in geospatial software.
 
 
 
 
 
-This section references ideas and phrases from [Earth Lab](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/), [pbc GIS](http://pbcgis.com/projection_fundamentals/), and [ArcGIS Blog](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/coordinate-systems-difference/#spatial).
+
+This section references ideas, phrases, and images from [Earth Lab](https://www.earthdatascience.org/courses/use-data-open-source-python/intro-vector-data-python/spatial-data-vector-shapefiles/intro-to-coordinate-reference-systems-python/), [pbc GIS](http://pbcgis.com/projection_fundamentals/), and [ArcGIS Blog](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/coordinate-systems-difference/#spatial).
