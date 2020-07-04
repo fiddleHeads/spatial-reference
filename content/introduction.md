@@ -27,4 +27,4 @@ This introductory video will set the stage for what this workshop is all about.
 
 **Visualization of different map projections.**
 
-<iframe src="content/visualization.html" frameborder="0" height="600" width="100%"> </iframe>
+<iframe src="https://bl.ocks.org/mbostock/raw/3711652/" frameborder="0" height="600" width="100%"> </iframe>
