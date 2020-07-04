@@ -11,7 +11,7 @@ This introductory video will set the stage for what this workshop is all about.
 
 [Why all world maps are wrong](https://www.youtube.com/watch?v=kIID5FDi2JQ)
 
-## Key Points From the Video
+### Key Points From the Video
 
 * The surface of a sphere cannot be represented as a plane without distortion.
 * A projection is the process by which we translate (or project) the spherical globe onto a flat surface.
@@ -21,7 +21,7 @@ This introductory video will set the stage for what this workshop is all about.
 
 
 
-> ### Who remembers which projection Google Maps uses and why?
+### Who remembers which projection Google Maps uses and why?
 
 
 
