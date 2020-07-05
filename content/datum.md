@@ -5,7 +5,7 @@ nav_order: 2
 parent: Coordinate Reference System
 ---
 
-![surveyor](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/surveyor.jpg)
+![surveyor](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianSurveyors.jpg)
 
 ## Datums
 
@@ -38,7 +38,7 @@ A **vertical** datum defines the height either above or below a nationally defin
 
 ### A Brief History of Datums
 
-
+This history varies according to country 
 
 Because our understanding of the shape of the surface of the earth has improved over time, we are able to collect ever more accurate and precise measurements.
 
