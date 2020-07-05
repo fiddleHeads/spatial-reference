@@ -5,8 +5,6 @@ nav_order: 2
 parent: Coordinate Reference System
 ---
 
-![surveyor](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianSurveyors.jpg)
-
 ## Datums
 
 So just what is a datum?
@@ -21,7 +19,7 @@ Another way to think about datums is that they are a reference for a starting po
 
 For example, a datum ensures that engineers, surveyors, planners, and mapmakers are all starting at the same “zero” elevation. 
 
-
+![surveyor](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianSurveyors.jpg)
 
 ### Horizontal and Vertical Datums
 
@@ -38,7 +36,11 @@ A **vertical** datum defines the height either above or below a nationally defin
 
 ### A Brief History of Datums
 
-This history varies according to country 
+This history varies according to country.
+
+Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 since they are on the same continent.
+
+To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
 
 Because our understanding of the shape of the surface of the earth has improved over time, we are able to collect ever more accurate and precise measurements.
 
