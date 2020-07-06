@@ -52,15 +52,46 @@ In 1913, both Canada and Mexico decided to adopt this station as the starting po
 North American.
 </details>
 
-As far as I know, I have never worked with data registered to the 1913 North American Datum (NAD). I have, however, worked with survey data collected using NAD 27. Below is a breakdown of the differences between datums currently in use, heavily borrowing from [NAD83 – We’re Not in Kansas Anymore](https://gisgeography.com/nad83-north-american-datum/).
 
 
+As far as I know, I have never worked with data registered to the 1913 North American Datum (NAD). 
 
-Because our understanding of the shape of the surface of the earth has improved over time, we are able to collect ever more accurate and precise measurements.
+I have, however, worked with survey data collected using NAD 27. 
 
-This is also why datums are evolving and why it is important to use the most up-to-date datum when defining the spatial reference system of your data.
+Below is a breakdown of the differences between datums currently in use. 
 
-In some case, however, you may be using data that was collected or created using a different datum, and you
+### NAD 1927
+
+- uses the Clarke Ellipsoid of 1866 
+- reference point at Meade’s Ranch, Kansas
+- many control points calculated from observations in the 1800s
+- developed using 26,000 stations
+
+### NAD 1983
+
+- uses the the Geodetic Reference System (GRS80)
+- uses the Earth's center as the reference point rather than a ranch in Kansas
+- based on both ground measurements and satellite information
+- developed using 250,000 stations
+- from 1986 to 2011, this datum has been adjusted four times
+
+### World Geodetic System of 1984 (WGS 1984)
+
+-  developed by U.S. Department of Defense using Doppler observations from the Navy Navigation Satellite System (NNSS)
+- assumed to be identical to original NAD 83 in conterminous U.S.
+- later iterations in 1996 and 2002 based entirely on GPS observations
+- used by military and GPS systems
+
+### Another datum coming down the pike (2022)
+
+- the National Geodetic Survey in the U.S. is currently working on a new datum
+- will rely on Global Navigation Satellite Systems (GNSS) and Global Positioning Systems (GPS)
+- will use an updated geoid (hypothetical mean sea level) model
+
+### Why Should You Care?
+
+- for starters, you will inevitably encounter errors working with GIS data, and understanding datums and coordinate systems can help you troubleshoot those errors
+- 
 
 
 
