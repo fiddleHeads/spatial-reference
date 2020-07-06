@@ -38,7 +38,17 @@ A **vertical** datum defines the height either above or below a nationally defin
 
 This history varies according to country.
 
-Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 since they are on the same continent.
+Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 because they are on the same continent, along with Mexico. 
+
+Who can guess 
+
+<details>
+<summary>Who can guess the name of each of the datums used by Canada, the U.S.A., and Mexico since 1913?</summary>
+<br>
+North American.
+</details>
+
+The first 
 
 To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
 
