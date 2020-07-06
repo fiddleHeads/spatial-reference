@@ -17,7 +17,7 @@ You're all familiar with a coordinate system from 7th grade geometry, which defi
 
 So, what's the problem?
 
-We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical. The shape of the earth can more accurately be described as an ellipsoid.
+We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical. The shape of the earth is modeled using an ellipsoid, whereas a geoid more accurately accounts for the irregularity of the earth's surface.
 
 So we need a coordinate system that adapts to the Earth's shape.
 
