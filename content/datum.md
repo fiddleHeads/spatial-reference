@@ -9,9 +9,9 @@ parent: Coordinate Reference System
 
 So just what is a datum?
 
-Remember that the earth is an ellipsoid. 
+Remember that the earth is unevenly shaped. 
 
-A datum mathematically defines the shape and size of the ellipsoid and it's orientation in space.
+A datum mathematically defines the shape and size of the earth and it's orientation in space.
 
 Measurements of the surface of the earth in different places collected over time by surveyors are used to define a geodetic datum.
 
@@ -40,17 +40,21 @@ This history varies according to country.
 
 Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 because they are on the same continent, along with Mexico. 
 
-Who can guess 
+In 1901, the Meades Ranch triangulation station in Kansas (established in 1891) was chosen as the point relative to which all land measurements in the United States were made, in part of because of its geographic centrality to the nation.
+
+![meadesRanch.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/meadesRanch.jpg)
+
+In 1913, both Canada and Mexico decided to adopt this station as the starting point as well. As a result, the name of the datum was changed. 
 
 <details>
-<summary>Who can guess the name of each of the datums used by Canada, the U.S.A., and Mexico since 1913?</summary>
+<summary>Who can guess what that datum became called?</summary>
 <br>
 North American.
 </details>
 
-The first 
+As far as I know, I have never worked with data registered to the 1913 North American Datum (NAD). I have, however, worked with survey data collected using NAD 27. Below is a breakdown of the differences between datums currently in use, heavily borrowing from [NAD83 – We’re Not in Kansas Anymore](https://gisgeography.com/nad83-north-american-datum/).
 
-To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
+
 
 Because our understanding of the shape of the surface of the earth has improved over time, we are able to collect ever more accurate and precise measurements.
 
@@ -63,4 +67,6 @@ In some case, however, you may be using data that was collected or created using
 
 In the next section, we'll explore two different kinds of coordinate systems that are used in map making, geographic and projected coordinate systems.
 
-This section references information and ideas from [What is a datum](https://oceanservice.noaa.gov/facts/datum.html), [NOAA Celebrates 200 Years](https://celebrating200years.noaa.gov/magazine/vertical_datums/welcome.html#network), and [Geodetic Datums](https://gisgeography.com/geodetic-datums-nad27-nad83-wgs84/).
+To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
+
+This section references information and ideas from [What is a datum](https://oceanservice.noaa.gov/facts/datum.html), [NOAA Celebrates 200 Years](https://celebrating200years.noaa.gov/magazine/vertical_datums/welcome.html#network), [Geodetic Datums](https://gisgeography.com/geodetic-datums-nad27-nad83-wgs84/), and  [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
