@@ -14,7 +14,7 @@ Microphones are muted by default to improve audio quality and recording is disab
 
 The Zoom toolbar provides several ways to be part of the conversation:
 
-<img src="figures/zoom_toolbar.png" alt="Zoom toolbar" width="510"/>
+<img src="https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/particToolbar.jpg" alt="Zoom toolbar" width="510"/>
 <br/>
 
 ## Participants Window
