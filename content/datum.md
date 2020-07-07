@@ -49,9 +49,9 @@ In 1913, both Canada and Mexico decided to adopt this station as the starting po
 As a result, the name of the datum was changed. 
 
 <details>
-<summary>Who can guess what that datum became called?</summary>
+<summary>Who can guess what that datum and subsequent datums became called?</summary>
 <br>
-North American.
+North American Datum 1913, North American Datum 1927, and so on.
 </details>
 
 
@@ -93,21 +93,11 @@ Below is a breakdown of the differences between datums currently in use.
 For example, the geographic coordinates below are for a single point located within the city of Bellingham, Washington, using 3 different datums:
 
 
-| Original  | Change to |
+| DATUM  | X-Coordinate | Y-Coordinate |
 | ------------- | ------------- |
-| facility  | Facility Name |
-| carts  | Cart |
-| phone  | Phone Number |
-| pets  | Pets Allowed |
-| meals  | Meals Offered |
-| geo_local_area  | Neighborhood |
-
-
-DATUM		X-Coordinate               Y-Coordinate 
-NAD_1927	-122.466903686523	   48.7440490722656 
-NAD_1983	-122.46818353793	   48.7438798543649 
-WGS_1984	-122.46818353793	   48.7438798534299 
-
+| NAD_1927  | -122.466903686523 | 48.7440490722656 |
+| NAD_1983  | -122.46818353793 | 48.7438798543649 |
+| WGS_1984 | -122.46818353793 | 48.7438798534299 |
 
 
 While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey data. 
