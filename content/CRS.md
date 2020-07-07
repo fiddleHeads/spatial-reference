@@ -19,6 +19,8 @@ So, what's the problem?
 
 We live on a 3-diminesional earth that is neither perfectly round nor perfectly spherical. The shape of the earth is modeled using an ellipsoid, whereas a geoid more accurately accounts for the irregularity of the earth's surface.
 
+![geoid](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/geoid.jpg)
+
 So we need a coordinate system that adapts to the Earth's shape.
 
 A **CRS** does this by defining the translation between a location on the earth and that location on a flattened, 2 dimensional coordinate system. 
