@@ -44,7 +44,9 @@ In 1901, the Meades Ranch triangulation station in Kansas (established in 1891) 
 
 ![meadesRanch.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/meadesRanch.jpg)
 
-In 1913, both Canada and Mexico decided to adopt this station as the starting point as well. As a result, the name of the datum was changed. 
+In 1913, both Canada and Mexico decided to adopt this station as the starting point as well. 
+
+As a result, the name of the datum was changed. 
 
 <details>
 <summary>Who can guess what that datum became called?</summary>
@@ -52,11 +54,6 @@ In 1913, both Canada and Mexico decided to adopt this station as the starting po
 North American.
 </details>
 
-
-
-As far as I know, I have never worked with data registered to the 1913 North American Datum (NAD). 
-
-I have, however, worked with survey data collected using NAD 27. 
 
 Below is a breakdown of the differences between datums currently in use. 
 
@@ -91,13 +88,36 @@ Below is a breakdown of the differences between datums currently in use.
 ### Why Should You Care?
 
 - for starters, you will inevitably encounter errors working with GIS data, and understanding datums and coordinate systems can help you troubleshoot those errors
-- 
+- coordinates change depending on the datum and spheroid on which they're based, even if they are using the same map projection
+
+For example, the geographic coordinates below are for a single point located within the city of Bellingham, Washington, using 3 different datums:
+
+
+| Original  | Change to |
+| ------------- | ------------- |
+| facility  | Facility Name |
+| carts  | Cart |
+| phone  | Phone Number |
+| pets  | Pets Allowed |
+| meals  | Meals Offered |
+| geo_local_area  | Neighborhood |
+
+
+DATUM		X-Coordinate               Y-Coordinate 
+NAD_1927	-122.466903686523	   48.7440490722656 
+NAD_1983	-122.46818353793	   48.7438798543649 
+WGS_1984	-122.46818353793	   48.7438798534299 
 
 
 
+While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey data. 
 
 In the next section, we'll explore two different kinds of coordinate systems that are used in map making, geographic and projected coordinate systems.
 
+And then we'll learn how to find out what datum and coordinate system you data are in.
+
+![canadianControl.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianControl.jpg)
+
 To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
 
-This section references information and ideas from [What is a datum](https://oceanservice.noaa.gov/facts/datum.html), [NOAA Celebrates 200 Years](https://celebrating200years.noaa.gov/magazine/vertical_datums/welcome.html#network), [Geodetic Datums](https://gisgeography.com/geodetic-datums-nad27-nad83-wgs84/), and  [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
+This section references information and ideas from [What is a datum](https://oceanservice.noaa.gov/facts/datum.html), [NOAA Celebrates 200 Years](https://celebrating200years.noaa.gov/magazine/vertical_datums/welcome.html#network), [Geodetic Datums](https://gisgeography.com/geodetic-datums-nad27-nad83-wgs84/), and  [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110), and [FAQ: Projection Basics](https://support.esri.com/en/technical-article/000005562).
