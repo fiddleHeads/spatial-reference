@@ -28,12 +28,18 @@ False. Every projection is distorted in some way, and some distort the sizes of 
 Most web maps, such as Google maps, use the Mercator projection, often referred to as Web Mercator. It preserves direction, north is always up, and 90 degree turns appear as right angles. It's also good for generating map tiles because it projects the world into a square evenly subdivided across zoom levels.
 </details>
 
-To Do 
-{: .label .label-green }
-Go to [Google Maps](https://www.google.com/maps) and zoom into the street where you live.
+![mercator](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/mercator.jpg)
+
+The mercator projection has a hegemonic hold on most web map applications.
+
+If you are using ArcGIS Online, for example, you may encounter difficulties trying to upload any data that is not projected in Web Mercator.
+
+Let's explore the different kinds of projections and the reasons why they are used.
 
 ### Planar Projections
 
 ### Cylindrical Projections
+
+- The Mercator projection is a cylindrical projection.
 
 ### Conical Projections
