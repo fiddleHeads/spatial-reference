@@ -2,6 +2,7 @@
 layout: default
 title: Map Projections
 nav_order: 5
+has_children: true
 ---
 
 ## Map Projections
@@ -34,12 +35,40 @@ The mercator projection has a hegemonic hold on most web map applications.
 
 If you are using ArcGIS Online, for example, you may encounter difficulties trying to upload any data that is not projected in Web Mercator.
 
-Let's explore the different kinds of projections and the reasons why they are used.
+### Terminology
+
+Remember latitutde and longitude? In the context of projections, it may be useful to think of these as lines that have another name to describe them.
+
+Lines of latitude are also called parallels and run east-west parallel to the equator.
+
+Lines of longitude are called meridians and run north-south between the North and South Poles.
+
+![meridian](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/meridian.jpg)
+
+Map projections are typically categorized into three different types, based on the visualization of light shining through through the earth onto a surface, where the surface is a plane, a cylinder, or a cone, respectively.
+
+![lightSource.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource.jpg)
+
+This visualization is supposed to make projection easier to understand, although I confess it has never worked that well for me. There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with these categories because they don't account for all projections and lead to misunderstanding and confusion.
+
+Nevertheless, these three categories can be useful models for illustrating some map projections.
 
 ### Planar Projections
 
+![planar.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/planar.jpg)
+
+- these are used most often to map polar regions
+- also known as azimuthal projection
+- 
+
 ### Cylindrical Projections
+
+![cylindrical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cylindrical.jpg)
 
 - The Mercator projection is a cylindrical projection.
 
 ### Conical Projections
+
+![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
+
+This section references ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf)
