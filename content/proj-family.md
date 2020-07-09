@@ -49,26 +49,44 @@ Map projections are typically categorized into three different types, based on t
 
 ![lightSource.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource.jpg)
 
-This visualization is supposed to make projection easier to understand, although I confess it has never worked that well for me. There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with these categories because they don't account for all projections and lead to misunderstanding and confusion.
+This visualization is supposed to make projection easier to understand, although I confess it has never worked that well for me. There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with the three projection categories because they don't account for all projections and can lead to misunderstanding and confusion.
 
-Nevertheless, these three categories can be useful models for illustrating some map projections.
+![lightSource2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource2.jpg)
+
+Nevertheless, these three categories can be useful models for illustrating some map projections. 
+
+Projections based on each surface can be used for mapping particular parts of the world.
+
+Where each respective surface touches the Earth is also the area of the world portrayed most accurately using one of the three surfaces described below.
 
 ### Planar Projections
 
 ![planar.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/planar.jpg)
 
-- these are used most often to map polar regions
 - also known as azimuthal projection
-- 
+- most often used to map polar regions
+- area and shape distortion are circular around the point of contact, so these projections accommodate circular regions better than rectangular regions
+- point of contact can be anywhere on Earth's surface but north and south poles most common point of contact
+- longitude lines converge at the north pole and radiate outward
+- latitude lines appear as a series of concentric circles
+- useful for plotting navigational routes for airplanes
 
 ### Cylindrical Projections
 
 ![cylindrical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cylindrical.jpg)
 
-- The Mercator projection is a cylindrical projection.
+- Mercator projection is a cylindrical projection with line of tangency at equator
+- produce maps with straight, evenly-spaced meridians and straight parallels that intersect meridians at right angles
+- touch the globe along a line rather than a point, as with planar
+- display true direction along straight lines
 
 ### Conical Projections
 
+- used for midlatitude zones that have an east-to-west orientation
+- produce maps with straight converging longitude lines and concentric circular arcs for latitude lines
+- simplest conic projection contacts the globe along a single latitude line, a tangent, called the standard parallel
+- distortion increases north and south of the standard parallel
+
 ![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
 
-This section references ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf)
+This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
