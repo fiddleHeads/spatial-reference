@@ -8,7 +8,7 @@ has_toc: false
 
 ## Note: this workshop is in development and not yet complete.
 
-# Foundations for Spatial Analysis: Understanding Map Projections
+# Understanding Spatial Data: Map Projections
 
 ## Goals
 
