@@ -104,8 +104,6 @@ While it is unlikely you'll ever encounter data registered to NAD 1913, there ar
 
 In the next section, we'll explore two different kinds of coordinate systems that are used in map making, geographic and projected coordinate systems.
 
-And then we'll learn how to find out what datum and coordinate system you data are in.
-
 ![canadianControl.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianControl.jpg)
 
 To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
