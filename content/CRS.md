@@ -11,7 +11,7 @@ Now I'm going to complicate things a bit by introducing the term **coordinate re
 
 Let's break down the term a bit.
 
-You're all familiar with a coordinate system from geometry, which defines a location in 2-dimensional space on an XY axis.
+You may all be familiar with a coordinate system from your algebra days. A coordinate system defines a location in 2-dimensional space on an XY axis.
 
 ![cartesian](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/555px-2D_Cartesian_Coordinates.svg.png)
 
