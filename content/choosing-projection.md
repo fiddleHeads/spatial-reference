@@ -1,8 +1,50 @@
 ---
 layout: default
 title: Choosing the Right Projection
-nav_order: 7
+nav_order: 6
 parent: Map Projections
 ---
 
 ## How to Select the Right Projection
+
+Keep in mind that all projections either disort or preserve one of the following properties:
+
+-	Area
+-	Shape/Angle 
+-	Distance
+-	Direction
+
+It is useful to think about projections grouped by the properties they preserve.
+
+**Equal area projections**
+
+- preserve the area of specific features
+- distort shape and angle
+
+The British Columbia (BC) **Albers Equal Area Conic** projection is an example of an equal area projection. This is used province wide when mapping land-use data and is used by [BC Environment](https://ibis.geog.ubc.ca/~brian/Course.Notes/bceprojection.html) in part because it represents the whole province on one projection plane.
+
+**Conformal projections**
+
+- preserve angles and shape
+- distort area
+- lat/long lines intersect at 90-degree angles on the map
+
+The **UTM Zone 10N** projection is a good example. This could be used, for example, when mapping the location of invasive plant species in Vancouver parks.
+For most GIS analysis work, equal area and conformal map projections are used. 
+
+**Equidistant projections**
+
+- preserve distances between points by maintaining the scale of a given dataset
+- Outside the given dataset, scale becomes more distorted
+
+The **Two-Point Equidistant** projection is one example of this and allows one to arbitrarily choose two points on the map – the straight-line distance between these points is correct and is used by airports.
+
+**True-direction or azimuthal projections**
+
+- preserve direction from one point to all other points by maintaining some of the great circle arcs
+- can be combined with equal area, conformal, and equidistant projections
+
+The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant** projection are examples of azimuthal projections. In fact, the Azimuthal equidistant global projection is used as the emblem for the United Nations.
+
+
+This section borrows ideas, phrases, and images from Sally Hermansen, 
