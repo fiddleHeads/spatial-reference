@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Map Projection Humor
-nav_order: 6
+title: Map Projection Humour
+nav_order: 7
 parent: Map Projections
 ---
 
