@@ -47,11 +47,9 @@ Lines of longitude are called meridians and run north-south between the North an
 
 Map projections are typically categorized into three different types, based on the visualization of light shining through through the earth onto a surface, where the surface is a plane, a cylinder, or a cone, respectively.
 
-![lightSource.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource.jpg)
-
-This visualization is supposed to make projection easier to understand, although I confess it has never worked that well for me. There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with the three projection categories because they don't account for all projections and can lead to misunderstanding and confusion.
-
 ![lightSource2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource2.jpg)
+
+There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with the three projection categories because they don't account for all projections and can lead to misunderstanding and confusion.
 
 Nevertheless, these three categories can be useful models for illustrating some map projections. 
 
