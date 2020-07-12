@@ -87,4 +87,6 @@ Where each respective surface touches the Earth is also the area of the world po
 
 ![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
 
+In the next section, we'll go over choosing the right projection for your data.
+
 This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
