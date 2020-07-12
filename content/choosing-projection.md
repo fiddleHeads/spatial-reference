@@ -23,6 +23,9 @@ It is useful to think about projections grouped by the properties they preserve.
 
 The British Columbia (BC) **Albers Equal Area Conic** projection is an example of an equal area projection. This is used province wide when mapping land-use data and is used by [BC Environment](https://ibis.geog.ubc.ca/~brian/Course.Notes/bceprojection.html) in part because it represents the whole province on one projection plane.
 
+Albers Equal Area Conic
+![albers.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/albers.jpg)
+
 **Conformal projections**
 
 - preserve angles and shape
@@ -31,6 +34,9 @@ The British Columbia (BC) **Albers Equal Area Conic** projection is an example o
 
 The **UTM Zone 10N** projection is a good example. This could be used, for example, when mapping the location of invasive plant species in Vancouver parks.
 For most GIS analysis work, equal area and conformal map projections are used. 
+
+Lambert Conformal Conic
+![lambert.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lambert.jpg)
 
 **Equidistant projections**
 
@@ -47,4 +53,4 @@ The **Two-Point Equidistant** projection is one example of this and allows one t
 The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant** projection are examples of azimuthal projections. In fact, the Azimuthal equidistant global projection is used as the emblem for the United Nations.
 
 
-This section borrows ideas, phrases, and images from Sally Hermansen, 
+This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), 
