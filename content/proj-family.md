@@ -73,8 +73,7 @@ Where each respective surface touches the earth is also the area of the world po
 - any other measure of distance or direction will not be true
 - not good for world maps because only show about half of earth at a time
 
-[![planar](https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/aziproj.html)
-
+![azimuth.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/azimuth.jpg)
 
 ### Cylindrical Projections
 
@@ -87,7 +86,11 @@ Where each respective surface touches the earth is also the area of the world po
 - a cylinder wrapped around a globe will cover more of the globe than either a plane or cone can
 - tend to be better for world maps but still can't show All of earth's surface
 
+![cylindrical2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cylindrical2.jpg)
+
 ### Conical Projections
+
+![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
 
 - used for midlatitude zones that have an east-to-west orientation (because cone wider than it is tall)
 - single cone cannot show the whole globe
@@ -96,7 +99,7 @@ Where each respective surface touches the earth is also the area of the world po
 - simplest conic projection contacts the globe along a single latitude line, a tangent, called the standard parallel
 - distortion increases north and south of the standard parallel
 
-![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
+![conic2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic2.jpg)
 
 In the next section, we'll go over choosing the right projection for your data.
 
