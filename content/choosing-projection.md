@@ -53,4 +53,13 @@ The **Two-Point Equidistant** projection is one example of this and allows one t
 The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant** projection are examples of azimuthal projections. In fact, the Azimuthal equidistant global projection is used as the emblem for the United Nations.
 
 
-This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), 
+| Original  | Change to |
+| ------------- | ------------- |
+| facility  | Facility Name |
+| carts  | Cart |
+| phone  | Phone Number |
+| pets  | Pets Allowed |
+| meals  | Meals Offered |
+| geo_local_area  | Neighborhood |
+
+This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
