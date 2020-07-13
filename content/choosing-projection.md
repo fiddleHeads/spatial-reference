@@ -54,15 +54,17 @@ The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant*
 
 ### Characteristics of Map Projections
 
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
+
 | Projection Category | Properties | Common Uses |
-| ------------- | ------------- | ------------- |
-| Conformal | Preserves local shapes and angles | Topographic maps,
-navigation charts,
-weather maps |
-| Equal Area | Preserves areas | Dot density maps,
-thematic maps |
-| Equidistant| Preserves distance from one or two specified points to all other points on the map | Maps of airline distances,
-seismic maps showing distances from an earthquake epicenter | 
+| :------------- | :-------------: | -------------: |
+| Conformal | Preserves local shapes and angles | Topographic maps, navigation charts, weather maps |
+| Equal Area | Preserves areas | Dot density maps, thematic maps |
+| Equidistant| Preserves distance from one or two specified points to all other points on the map | Maps of airline distances, seismic maps showing distances from an earthquake epicenter | 
 | Azimuthal | All directions are true from a single specified point (usually the center) to all other points on the map | Navigation and route planning maps |
 | Compromise | No point is completely distortion free; distortion is minimized near the center and along the equator | World maps |
 
