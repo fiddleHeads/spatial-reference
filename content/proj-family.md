@@ -55,7 +55,7 @@ Nevertheless, these three categories can be useful models for illustrating some 
 
 Projections based on each surface can be used for mapping particular parts of the world.
 
-Where each respective surface touches the Earth is also the area of the world portrayed most accurately using one of the three surfaces described below.
+Where each respective surface touches the earth is also the area of the world portrayed most accurately using one of the three surfaces described below.
 
 ### Planar Projections
 
@@ -64,10 +64,17 @@ Where each respective surface touches the Earth is also the area of the world po
 - also known as azimuthal projection
 - most often used to map polar regions
 - area and shape distortion are circular around the point of contact, so these projections accommodate circular regions better than rectangular regions
-- point of contact can be anywhere on Earth's surface but north and south poles most common point of contact
+- point of contact can be anywhere on earth's surface but north and south poles most common point of contact
 - longitude lines converge at the north pole and radiate outward
 - latitude lines appear as a series of concentric circles
 - useful for plotting navigational routes for airplanes
+- distances from or through the map center are true
+- directions from the map center to any other point are also held true
+- any other measure of distance or direction will not be true
+- not good for world maps because only show about half of earth at a time
+
+[![planar](https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/aziproj.html)
+
 
 ### Cylindrical Projections
 
@@ -77,10 +84,14 @@ Where each respective surface touches the Earth is also the area of the world po
 - produce maps with straight, evenly-spaced meridians and straight parallels that intersect meridians at right angles
 - touch the globe along a line rather than a point, as with planar
 - display true direction along straight lines
+- a cylinder wrapped around a globe will cover more of the globe than either a plane or cone can
+- tend to be better for world maps but still can't show All of earth's surface
 
 ### Conical Projections
 
-- used for midlatitude zones that have an east-to-west orientation
+- used for midlatitude zones that have an east-to-west orientation (because cone wider than it is tall)
+- single cone cannot show the whole globe
+- conic maps show only a sector of a complete circle…they don't develop into a complete circle
 - produce maps with straight converging longitude lines and concentric circular arcs for latitude lines
 - simplest conic projection contacts the globe along a single latitude line, a tangent, called the standard parallel
 - distortion increases north and south of the standard parallel
@@ -89,4 +100,4 @@ Where each respective surface touches the Earth is also the area of the world po
 
 In the next section, we'll go over choosing the right projection for your data.
 
-This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
+This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/), and [Map Projections](https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/project.html).
