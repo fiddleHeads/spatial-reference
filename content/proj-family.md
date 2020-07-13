@@ -57,17 +57,14 @@ Projections based on each surface can be used for mapping particular parts of th
 
 Where each respective surface touches the earth is also the area of the world portrayed most accurately using one of the three surfaces described below.
 
-### Planar Projections
+### Planar/Azimuthal Projections
 
 ![planar.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/planar.jpg)
 
-- also known as azimuthal projection
-- most often used to map polar regions
 - area and shape distortion are circular around the point of contact, so these projections accommodate circular regions better than rectangular regions
 - point of contact can be anywhere on earth's surface but north and south poles most common point of contact
 - longitude lines converge at the north pole and radiate outward
 - latitude lines appear as a series of concentric circles
-- useful for plotting navigational routes for airplanes
 - distances from or through the map center are true
 - directions from the map center to any other point are also held true
 - any other measure of distance or direction will not be true
