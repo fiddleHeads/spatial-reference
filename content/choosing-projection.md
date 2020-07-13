@@ -54,16 +54,16 @@ The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant*
 
 ### Characteristics of Map Projections
 
-| Projection Category  | Properties | Common Uses |
+| Projection Category | Properties | Common Uses |
 | ------------- | ------------- | ------------- |
-| Conformal  | Preserves local shapes and angles | Topographic maps,
+| Conformal | Preserves local shapes and angles | Topographic maps,
 navigation charts,
 weather maps |
-| Equal Area  | Preserves areas | Dot density maps,
+| Equal Area | Preserves areas | Dot density maps,
 thematic maps |
-| Equidistant  | Preserves distance from one or two specified points to all other points on the map | Maps of airline distances,
+| Equidistant| Preserves distance from one or two specified points to all other points on the map | Maps of airline distances,
 seismic maps showing distances from an earthquake epicenter | 
-| Azimuthal  | All directions are true from a single specified point (usually the center) to all other points on the map | Navigation and route planning maps |
-| Compromise  | No point is completely distortion free; distortion is minimized near the center and along the equator | World maps |
+| Azimuthal | All directions are true from a single specified point (usually the center) to all other points on the map | Navigation and route planning maps |
+| Compromise | No point is completely distortion free; distortion is minimized near the center and along the equator | World maps |
 
 This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), [Choosing a Map Projection](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/12%20-%20Choosing%20a%20map%20projection.html), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
