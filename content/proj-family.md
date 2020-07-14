@@ -31,7 +31,7 @@ Most web maps, such as Google maps, use the Mercator projection, often referred 
 
 ![mercator](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/mercator.jpg)
 
-The mercator projection has a hegemonic hold on most web map applications.
+The mercator projection is used in most web map applications.
 
 If you are using ArcGIS Online, for example, you may encounter difficulties trying to upload any data that is not projected in Web Mercator.
 
@@ -43,7 +43,7 @@ Lines of latitude are also called parallels and run east-west parallel to the eq
 
 Lines of longitude are called meridians and run north-south between the North and South Poles.
 
-![meridian](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/meridian.jpg)
+![parallels](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/parallels.jpg)
 
 Map projections are typically categorized into three different types, based on the visualization of light shining through through the earth onto a surface, where the surface is a plane, a cylinder, or a cone, respectively.
 
