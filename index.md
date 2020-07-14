@@ -40,12 +40,10 @@ There will be three applications that come with your download of ArcGIS Desktop.
 
 For the purposes of this workshop, we will only be using **ArcMap**.
 
-Start ArcMap by typing *ArcMap* in the search bar next to the Start menu and select **ArcMap 10.7.1**
-
 You will also need to download data
 Download [Data](){: .btn .btn-blue }
 
-Download the data and extract the compressed files into your **C:\temp** directory.
+Download the data and extract the compressed files into your **Downloads** folder.
 
 ## Outline
 
