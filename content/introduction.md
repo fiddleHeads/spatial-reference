@@ -26,7 +26,7 @@ This introductory video will set the stage for what this workshop is all about.
 <details>
 <summary>Properties that are maintained or distorted by projections</summary>
 <br>
-Shape (area), size, direction, and distance
+Shape, size (area), direction, and distance
 </details>
 
 
