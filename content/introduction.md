@@ -16,15 +16,19 @@ This introductory video will set the stage for what this workshop is all about.
 * The surface of a sphere cannot be represented as a plane without distortion.
 * A projection is the process by which we translate (or project) the spherical globe onto a flat surface.
 * The object onto which maps are projected (i.e. cylinder, cone, or plane) affects the way the map appears.
-* All map projections come with tradeoffs in terms of shape, distance, size, etc.
+* All map projections maintain certain properties while distorting others.
 * Map projections can be useful, but they can also be misleading.
-
-
 
 ### Who remembers which projection Google Maps uses and why?
 
+### What are the four properties that are either preserved or distorted depending on the projection?
+
+<details>
+<summary>Properties that are maintained or distorted by projections</summary>
+<br>
+Shape (area), size, direction, and distance
+</details>
 
 
-**Visualization of different map projections.**
 
-<iframe src="https://bl.ocks.org/mbostock/raw/3711652/" frameborder="0" height="600" width="100%"> </iframe>
+
