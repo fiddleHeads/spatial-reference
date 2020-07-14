@@ -5,6 +5,10 @@ nav_order: 2
 parent: Coordinate Reference System
 ---
 
+To introduce the topic of datums and how they relate to coordinate reference systems, we're going to watch another video.
+
+[Coordinate System Jargon](https://www.youtube.com/watch?v=Z41Dt7_R180)
+
 ## Datums
 
 So just what is a datum?
@@ -31,7 +35,9 @@ A **horizontal** datum measures positions on the surface of the Earth using lati
 
 A **vertical** datum defines the height either above or below a nationally defined reference surface (e.g., mean sea level).
 
-> Not all geospatial data needs to have a defined vertical datum, but it makes sense if you are using survey data in a GIS.
+> Not all geospatial data needs to have a defined vertical datum, but it makes sense if you are using elevation data in a GIS.
+
+> There was just a new [vertical datum](https://www2.gov.bc.ca/gov/content/data/geographic-data-services/georeferencing/vertical-reference-system) released last year for BC, important for any sea level rise mapping and accuracy.
 
 
 ### A Brief History of Datums
@@ -57,14 +63,14 @@ North American Datum 1913, North American Datum 1927, and so on.
 
 Below is a breakdown of the differences between datums currently in use. 
 
-### NAD 1927
+### North American Datum 1927
 
 - uses the Clarke Ellipsoid of 1866 
 - reference point at Meade’s Ranch, Kansas
 - many control points calculated from observations in the 1800s
 - developed using 26,000 stations
 
-### NAD 1983
+### North American Datum 1983
 
 - uses the the Geodetic Reference System (GRS80)
 - uses the Earth's center as the reference point rather than a ranch in Kansas
@@ -100,11 +106,9 @@ For example, the geographic coordinates below are for a single point located wit
 | WGS_1984 | -122.46818353793 | 48.7438798534299 |
 
 
-While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey data. 
+While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey control data. 
 
 In the next section, we'll explore two different kinds of coordinate systems that are used in map making, geographic and projected coordinate systems.
-
-![canadianControl.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianControl.jpg)
 
 To learn more about Canada's unique history of surveying, check out [100 Years of Geodetic Surveys in Canada](https://www.nrcan.gc.ca/earth-sciences/geomatics/canadian-spatial-reference-system-csrs/100-years-geodetic-surveys-canada/9110).
 
