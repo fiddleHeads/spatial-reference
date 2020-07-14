@@ -9,10 +9,17 @@ has_children: true
 
 These exercises will be accomplished using ArcGIS Desktop. You should have already downloaded the software and the data we will use for this workshop.
 
+If you haven't downloaded the data or software, that's okay. 
 
+What's important is that you understand these different concepts and how they apply to working with spatial data.
 
-### Exercise 1: Discover the Coordinate System of Your Data
+In these exercises, I will demonstrate:
 
-### Exercise 2: Transformations
+- How to recognize whether your data is in a geographic coordinate system
+- How to find the spatial reference system of your dataset in that dataset's properties
+- Projection on-the-fly and changing the projection properties of your data
 
-### Exercise 3: Define a Different Projection
+### Exercise 1: What Coordinate System is my Data In?
+
+### Exercise 2: Changing Projection Properties
+
