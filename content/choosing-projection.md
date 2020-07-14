@@ -9,10 +9,16 @@ parent: Map Projections
 
 Keep in mind that all projections either disort or preserve one of the following properties:
 
--	Area
--	Shape/Angle 
--	Distance
--	Direction
+-	**Area/Size**
+> Size of a feature on the map is the same relative to its size on the earth
+-	**Shape**
+> Shapes appear the same on a map as they do on the earth
+> Maps that preserve shape are called *conformal*
+-	**Distance**
+> Line between one point on the map and another is the same distance as it is on the earth
+> Equidistant maps preserve the true scale for all straight lines passing through a single location, such as Vancouver
+-	**Direction/Azimuth**
+> Directions from a central location to all other points on the map will be shown correctly
 
 It is useful to think about projections grouped by the properties they preserve.
 
@@ -62,4 +68,4 @@ The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant*
 | Azimuthal | All directions are true from a single specified point (usually the center) to all other points on the map | Navigation and route planning maps |
 | Compromise | No point is completely distortion free; distortion is minimized near the center and along the equator | World maps |
 
-This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), [Choosing a Map Projection](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/12%20-%20Choosing%20a%20map%20projection.html), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
+This section borrows ideas, phrases, and images from Sally Hermansen, [GIS Geography](https://gisgeography.com/conic-projection-lambert-albers-polyconic/), [Choosing a Map Projection](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/12%20-%20Choosing%20a%20map%20projection.html), [Understanding Distortion](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/lecture04/concepts/11%20-%20Understanding%20distortion.html), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/).
