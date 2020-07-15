@@ -40,8 +40,9 @@ There will be three applications that come with your download of ArcGIS Desktop.
 
 For the purposes of this workshop, we will only be using **ArcMap**.
 
-You will also need to download data
-Download [Data](){: .btn .btn-blue }
+You will also need to download data and 3 MXD (maps).
+
+[Download](https://files.workspace.ubc.ca/MyDevice/s/570/9ce02578-b03a-48da-8ca9-db85c7755e07){: .btn .btn-blue }
 
 Download the data and extract the compressed files into your **Downloads** folder.
 
