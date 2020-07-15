@@ -6,7 +6,7 @@ nav_order: 12
 
 ## Resources
 
-This is just a selection of many resources available on coordinate systems and projections. I've included a link to resources specific to QGIS and R, respectively.
+This is just a selection of many resources available on coordinate systems and projections. I've included a link to resources specific to QGIS and R, respectively, if you prefer to use different software for GIS analysis.
 
 [An Overview of Geodesy and Geographic Referencing Systems](http://pbcgis.com/projection_fundamentals/)
 
