@@ -5,7 +5,7 @@ nav_order: 2
 parent: Coordinate Reference System
 ---
 
-To introduce the topic of datums and how they relate to coordinate reference systems, we're going to watch another video.
+This is a great video to introduce the topic of datums and how they relate to coordinate reference systems. I recommend you watch it on your own.
 
 [Coordinate System Jargon](https://www.youtube.com/watch?v=Z41Dt7_R180)
 
