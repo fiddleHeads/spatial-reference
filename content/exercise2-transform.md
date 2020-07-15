@@ -21,7 +21,7 @@ The **Lambert Conformal Conic Projection** has characteristics which make it a g
 - retains conformality in mid-latitude regions having primarily an east-west direction
 - not equal area because distortion increaseas north and south of the standard parallel (line at which there is no distortion in the map projection)
 
-*3*{: .circle .circle-blue} click on the **Add Data** button.
+*3*{: .circle .circle-blue} Click on the **Add Data** button.
 
 ![addData.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/addData.jpg)
 
@@ -33,7 +33,7 @@ The **Lambert Conformal Conic Projection** has characteristics which make it a g
 
 You will get a **Geographic Coordinate Systems Warning**.
 
-This is because you are adding data that it's in a geographic coordinate system to a map that it is in a projected coordinate system.
+This is because you are adding data that is in a geographic coordinate system to a map that it is in a projected coordinate system.
 
 You can let ArcMap choose a transformation between these two different kinds of coordinate systems that will project the data you are adding "on-the-fly."
 
