@@ -34,9 +34,9 @@ When workshops are again conducted on campus, there is a GIS lab available at th
 
 There will be three applications that come with your download of ArcGIS Desktop.
 
-- **ArcCatalog**: "file browser for managing and organizing your data"
-- **ArcMap**: "program to view, edit, and analyze data and create maps"
-- **ArcGIS Pro**: "newer program that has similar functionality to ArcMap but more 3D capability and better communication with ArcGIS Online"
+- **ArcCatalog**: file browser for managing and organizing your data
+- **ArcMap**: program to view, edit, and analyze data and create maps
+- **ArcGIS Pro**: newer program that has similar functionality to ArcMap but more 3D capability and better communication with ArcGIS Online
 
 For the purposes of this workshop, we will only be using **ArcMap**.
 
