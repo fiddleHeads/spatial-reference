@@ -59,7 +59,7 @@ The input coordinate system is automatically populated.
 
 *10*{: .circle .circle-blue} click **OK** to run the tool.
 
-You may not be able to tell anything is happening, but you should get a popup in the lower right that says **Project** and has a green checkmark next to it.
+You may not be able to tell anything is happening, but you should get a popup in the lower right that says **Project** and has a green checkmark next to it when the tool is done running.
 
 The new projected dataset will be added to your map.
 
@@ -77,11 +77,11 @@ You will get a warning that this coordinate system differs from one or more of t
 
 You should see the data transform before your eyes.
 
-You don't have to know off the top of your head what the correct projection for a certain area or for a certain purpose is. 
+It's not important to always know what projection you should be using.
 
 You can google this information or consult a GIS person at the Research Commons.
 
 What's more important is:
 - that you think to examine a dataset's coordinate system information
-- that if your data "doesn't look right" or is not lining up with other data that there is likely a projection issue
-- that you understand the complexity of mapping a 3-dimensional, irregular surface in a 2-dimensional plane
+- that if your data "doesn't look right" or is not lining up with other data there is likely a projection issue
+- that you understand the complexity of mapping a 3-dimensional, irregular surface on a 2-dimensional plane
