@@ -31,10 +31,6 @@ Most web maps, such as Google maps, use the Mercator projection, often referred 
 
 ![mercator](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/mercator.jpg)
 
-The mercator projection is used in most web map applications.
-
-If you are using ArcGIS Online, for example, you may encounter difficulties trying to upload any data that is not projected in Web Mercator.
-
 ### Terminology
 
 Remember latitutde and longitude? In the context of projections, it may be useful to think of these as lines that have another name to describe them.
