@@ -21,5 +21,7 @@ In these exercises, I will demonstrate:
 
 ### Exercise 1: What Coordinate System is my Data In?
 
-### Exercise 2: Changing Projection Properties
+### Exercise 2: Projecting On-the-Fly
+
+### Exercise 3: Project Your Data
 
