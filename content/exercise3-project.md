@@ -13,9 +13,9 @@ Reset the data source if necessary.
 
 <details>
 <summary>Who can tell what coordinate system this data is in?</summary>
-<br>
+
 WGS1984, a geographic coordinate system
-</details>
+<br></details>
 
 We want to project this data into a projected coordinate system using a projection that is more appropriate for this area.
 
