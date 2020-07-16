@@ -15,8 +15,8 @@ Reset the data source if necessary.
 <summary>Who can tell what coordinate system this data is in?</summary>
 
 WGS1984, a geographic coordinate system
-<br></details>
-
+</details>
+<br>
 We want to project this data into a projected coordinate system using a projection that is more appropriate for this area.
 
 The standard projection used by the City of Vancouver is called **Universal Transverse Mercator (UTM) Zone 10**.
