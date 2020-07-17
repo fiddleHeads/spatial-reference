@@ -56,10 +56,10 @@ As a result, the name of the datum was changed.
 
 <details>
 <summary>Who can guess what that datum and subsequent datums became called?</summary>
-<br>
+
 North American Datum 1913, North American Datum 1927, and so on.
 </details>
-
+<br>
 
 Below is a breakdown of the differences between datums currently in use. 
 
