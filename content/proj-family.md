@@ -13,21 +13,24 @@ See if you can answer the questions below before you reveal the correct answer b
 
 <details>
 <summary>A projection is a mathematical equation to flatten data from a 3D surface onto a ____ plane. </summary>
-<br>
+
 2D.
 </details>
+<br>
 
 <details>
 <summary>All projections accurately represent the sizes of the continents. True or false. </summary>
-<br>
+
 False. Every projection is distorted in some way, and some distort the sizes of different land masses a lot.
 </details>
+<br>
 
 <details>
-<summary>Web maps generally use a particular projection. What is it and do you remember why it is used?</summary>
-<br>
-Most web maps, such as Google maps, use the Mercator projection, often referred to as Web Mercator. It preserves direction, north is always up, and 90 degree turns appear as right angles. It's also good for generating map tiles because it projects the world into a square evenly subdivided across zoom levels.
+<summary>Who can identify the projection below and which properties it preserves and distorts?</summary>
+
+The Mercator projection preserves direction and shape, north is always up, and 90 degree turns appear as right angles. In web maps, it's also good for generating map tiles because it projects the world into a square evenly subdivided across zoom levels. The Mercator projection distorts size, or area. Notice the classic example of comparing the size of Greenland to the continent of Africa in this map.
 </details>
+<br>
 
 ![mercator](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/mercator.jpg)
 
