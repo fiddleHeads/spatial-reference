@@ -16,8 +16,8 @@ This workshop is intended to familiarize participants with foundational knowledg
 
 - describe what a coordinate reference system is
 - describe what a map projection is
-- understand what a transformation is
 - know how to find the coordinate reference system of your data
+- know to how project your data into a different coordinate system
 - find additional resources
 
 ## Requirements and Setup
