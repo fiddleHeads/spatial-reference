@@ -35,6 +35,8 @@ This is just a selection of many resources available on coordinate systems and p
 
 [Eight Ways of Projecting the World](http://metrocosm.com/compare-map-projections.html)
 
+[Interrupted Maps](https://www.jasondavies.com/maps/)
+
 ### Geospatial Information Resources at UBC:
 
   - General Informational website for all things UBC GIS: [gis.ubc.ca](https://gis.ubc.ca)
