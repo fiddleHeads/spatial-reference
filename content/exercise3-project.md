@@ -65,9 +65,10 @@ The new projected dataset will be added to your map.
 
 <details>
 <summary>Why does it still look like it's in a GCS and it's units are appearing in decimal degrees?</summary>
-<br>
+
 This is because the data frame, or map, is in WGS1984, and ArcMap is projecting the data on-the-fly to line up with the data frame properties.
 </details> 
+<br>
 
 *11*{: .circle .circle-blue} Double-click on **Layers** in the Table of Contents to open the data frame properties.
 
