@@ -30,7 +30,7 @@ A **CRS** comprises:
 - **Coordinate system**: XY grid
 - **Horizontal and vertical units**: units used to define the grid along XY(and Z) axis
 - **Datum**: A model of the earth
-- **Projection**: mathematical equation used to project objects on the surface of the earth onto a flat surface, i.e. a paper map or a computer screen.
+- **Projection**: mathematical equation used to flatten the surface of the earth onto a 2-dimensional plane , i.e. a paper map or a computer screen.
 
 ![cartesianSpherical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cartSpherical.jpg)
 
