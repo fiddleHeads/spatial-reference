@@ -24,6 +24,10 @@ This workshop is intended to familiarize participants with foundational knowledg
 
 The exercises in this workshop will use Esri's ArcGIS Desktop software, available for download from [UBC IT](http://gis.ubc.ca/software/).
 
+If you have a Mac, it will be more challening to download ArcGIS software, which is more compatible with a Windows operating system.
+
+Please consult this [article](https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm) to learn more.
+
 Students are able to download ArcGIS Desktop for $30 a year.
 
 If you don't want to pay to use the software, you can [sign up for a free trial](https://www.esri.com/en-us/arcgis/trial?rmedium=esri_com_redirects01&rsource=https://links.esri.com/pro/trial), although there may be a pause on free trials during the pandemic unless your work is related to COVID-19.
