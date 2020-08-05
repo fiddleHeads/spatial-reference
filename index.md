@@ -46,7 +46,7 @@ For the purposes of this workshop, we will only be using **ArcMap**.
 
 You will also need to download data and 3 MXD (maps).
 
-[Download](https://files.workspace.ubc.ca/MyDevice/s/570/9ce02578-b03a-48da-8ca9-db85c7755e07){: .btn .btn-blue }
+[Download](https://www.dropbox.com/s/945j1dffuqja8ox/gisData.zip?dl=0){: .btn .btn-blue }
 
 Download the data and extract the compressed files into your **Downloads** folder.
 
