@@ -19,6 +19,10 @@ A datum mathematically defines the shape and size of the earth and it's orientat
 
 Measurements of the surface of the earth in different places collected over time by surveyors are used to define a geodetic datum.
 
+Shifts in the surface of the earth, such as following a major earthquake like occurred in New Zealand in 2016, mean that new measurements have to be taken.
+
+![NZ](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/NZ.jpg)
+
 Another way to think about datums is that they are a reference for a starting point against which to determine other horizontal or vertical measurements.
 
 For example, a datum ensures that engineers, surveyors, planners, and mapmakers are all starting at the same “zero” elevation. 
@@ -69,6 +73,8 @@ Below is a breakdown of the differences between datums currently in use.
 - reference point at Meade’s Ranch, Kansas
 - many control points calculated from observations in the 1800s
 - developed using 26,000 stations
+
+![surveyMon.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/surveyMon.jpg)
 
 ### North American Datum 1983
 
