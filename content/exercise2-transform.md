@@ -37,7 +37,9 @@ This is because you are adding data that is in a geographic coordinate system to
 
 You can let ArcMap choose a transformation between these two different kinds of coordinate systems that will project the data you are adding "on-the-fly."
 
-Or, if you have specific knowledge about a more appropriate transformation to use for your area, you can choose the transformation yourself from the dropdown menu.
+Or, if you have specific knowledge about a more appropriate transformation to use for your area or your data, you can choose the transformation yourself from the dropdown menu.
+
+A **transformation** is a mathematical calculation used to convert coordinates referenced to one datum to coordinates referenced to another datum.
 
 *6*{: .circle .circle-blue} We will let ArcMap handle the transformation for us. Click close.
 
@@ -52,3 +54,5 @@ Taking advantage of on-the-fly projection is okay for visualizing data within th
 If you want to do any kind of analysis based on area with your data, you will want to change the projection properties.
 
 We'll go over how to do this in the next exercise.
+
+See additional information on [transformations](https://www.esri.com/arcgis-blog/products/product/mapping/about-geographic-transformations-and-how-to-choose-the-right-one/).
