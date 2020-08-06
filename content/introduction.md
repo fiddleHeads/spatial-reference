@@ -38,7 +38,7 @@ If you're interested in reading more about this projection and some of the criti
 <details>
 <summary>Properties that are maintained or distorted by projections</summary>
 <br>
-Shape, size (area), direction, and distance
+Shape (angle), size (area), direction, and distance
 </details>
 
 
