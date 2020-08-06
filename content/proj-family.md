@@ -36,7 +36,7 @@ The Mercator projection preserves direction and shape. In web maps, it's also go
 
 ### Terminology
 
-Remember latitutde and longitude? In the context of projections, it may be useful to think of these as lines that have another name to describe them.
+Remember latitude and longitude? In the context of projections, it may be useful to think of these as lines that have another name to describe them.
 
 Lines of latitude are also called parallels and run east-west parallel to the equator.
 
