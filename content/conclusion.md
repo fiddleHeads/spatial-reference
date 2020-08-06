@@ -13,12 +13,12 @@ nav_order: 12
   - Uses linear units
   - Projects the earth onto a flat surface
   
- ### Datums
+### Datums
  
  - A datum mathematically defines the shape and size of the earth and it’s orientation in space
  - A **transformation** is a mathematical calculation used to convert coordinates referenced to one datum to coordinates referenced to another datum.
  
- ### Projection
+### Projections
  
 * A projection is the process by which we translate (or project) the spherical globe onto a flat surface.
 * The object onto which maps are projected (i.e. cylinder, cone, or plane) affects the way the map appears.
