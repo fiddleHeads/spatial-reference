@@ -11,7 +11,7 @@ Keep in mind that all projections either disort or preserve one of the following
 
 -	**Area/Size**
 > Size of a feature on the map is the same relative to its size on the earth
--	**Shape**
+-	**Shape/Angle**
 > Shapes appear the same on a map as they do on the earth
 > Maps that preserve shape are called *conformal*
 -	**Distance**
