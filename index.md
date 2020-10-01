@@ -30,9 +30,15 @@ Students are able to download ArcGIS Desktop for $30 a year.
 
 If you don't want to pay to use the software, you can [sign up for a free trial](https://www.esri.com/en-us/arcgis/trial?rmedium=esri_com_redirects01&rsource=https://links.esri.com/pro/trial), although there may be a pause on free trials during the pandemic unless your work is related to COVID-19.
 
-If neither of these are an option for you and you are attending this workshop from home, you can still follow along and apply the principles learned in this workshop to the GIS software of your choice.
+ArcGIS is also available on UBC Library's lab computers via VM's on a first-come-first-serve basis. Log in with your CWL to access remote labs here: [remote labs](https://remotelabs.ubc.ca).
 
-When workshops are again conducted on campus, there is a GIS lab available at the Research Commons with ArcGIS Desktop installed on computers there that can be used for a workshop.
+Labs with ArcGIS:
+
+Library Lab - Koerner Library Computer Lab (RM 217)
+Library Lab - Data/GIS Lab (RM 218 A)
+Library Lab - Digital Scholarship Lab (RM 497)
+
+If none of these is an option for you and you are attending this workshop from home, you can still follow along and apply the principles learned in this workshop to the GIS software of your choice.
 
 There will be three applications that come with your download of ArcGIS Desktop.
 
