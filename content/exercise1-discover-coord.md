@@ -9,6 +9,15 @@ parent: Exercises
 
 *1*{: .circle .circle-blue} From the folder where you downloaded and extracted the workshop data, open the **WGS1984** MXD (map).
 
+In ArcGIS Pro, each map is automatically loaded with a default topographic basemap. If you are in Canada, the map will open to the extent of that country, which also happens to show Greenland.
+
+<details>
+<summary>Based on what we have learned so far, what projection do you think this default basemap is in and how you can tell?</summary>
+
+Mercator because of the oversized appearance of Greenland.
+</details>
+<br>
+
 *2*{: .circle .circle-blue} If there is a red exclamation point next to your dataset and nothing in the map, double-click on the shapefile in the Table of Contents.
 
 *3*{: .circle .circle-blue} Under the **Source** tab, click on **Set Data Source**.
