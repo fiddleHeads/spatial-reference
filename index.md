@@ -42,13 +42,13 @@ If none of these is an option for you and you are attending this workshop from h
 
 There will be three applications that come with your download of ArcGIS Desktop.
 
-- **ArcCatalog**: file browser for managing and organizing your data
-- **ArcMap**: program to view, edit, and analyze data and create maps
-- **ArcGIS Pro**: newer program that has similar functionality to ArcMap but more 3D capability and better communication with ArcGIS Online
+- **ArcCatalog**: File browser for managing and organizing your data.
+- **ArcMap**: Program to view, edit, and analyze data and create maps, no longer supported after December 2020.
+- **ArcGIS Pro**: Program that has similar functionality to ArcMap, but with additional capabilities such as 3D and more seamless integration with ArcGIS Online. After December 2020, ArcGIS Pro will be the only mapping application that comes with ArcGIS Desktop.
 
-For the purposes of this workshop, we will only be using **ArcMap**.
+For the purposes of this workshop, we will only be using **ArcGIS Pro**.
 
-You will also need to download data and 3 MXD (maps).
+You will also need to download data and 3 maps.
 
 [Download](https://www.dropbox.com/s/945j1dffuqja8ox/gisData.zip?dl=0){: .btn .btn-blue }
 
