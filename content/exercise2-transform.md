@@ -7,11 +7,20 @@ parent: Exercises
 
 ## Exercise 2: Projecting on the Fly
 
-*1*{: .circle .circle-blue} From the folder containing the data you downloaded, open the **CAN_lambert** MXD.
+*1*{: .circle .circle-blue} From the same project in ArcGIS Pro, click on the the **CAN_lambert** tab representing a different map.
+
+Notice the difference in how the default topographic basemap appears in the previous map compared to this one. 
 
 Reset the data source if you see the red exclamation point.
 
-Notice the units in the lower right-hand corner of the map. 
+Notice the units below the map in the centre. 
+
+<details>
+<summary>What do these units tell us about the coordinate system this data and map are in?</summary>
+
+When units are in meters, it's a good indication the data is in a projected coordinate system. Data in a geographic coordinate system is usually in decimal degrees.
+</details>
+<br>
 
 *2*{: .circle .circle-blue} Open the properties of the dataset to see what the coordinate system is.
 
