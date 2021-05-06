@@ -6,6 +6,8 @@ has_children: false
 has_toc: false
 ---
 
+**This workshop is currently under development.**
+
 # Understanding Spatial Data: Map Projections
 
 ## Learning Outcomes
