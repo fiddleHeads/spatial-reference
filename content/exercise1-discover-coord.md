@@ -27,10 +27,10 @@ Let's look at the properties, or metadata, of the dataset.
 
 **Metadata** is data about data.
 
-*5*{: .circle .circle-blue} Right-click the data in the Table of Contents pane and select **Properties**.
+*5*{: .circle .circle-blue} Right-click the data in the Contents pane and select **Properties**.
 
 *6*{: .circle .circle-blue} Under the **Source** tab, expand the **Spatial Reference** section and note what is listed for **Geographic Coordinate System** and **Angular Unit**.
 
-![spatialRef.jpg](../images/spatialRef.jpg)
+![angUnit.jpg](../images/angUnit.jpg)
 
 In the next exercise we'll go over projection on-the-fly.

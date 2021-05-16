@@ -43,8 +43,6 @@ The input coordinate system is automatically populated.
 
 *7*{: .circle .circle-blue} Click on **Projected Coordinate System** to expand this menu and then *UTM> North America> NAD 1983 (2011) UTM Zone 10N*.
 
-![utmz10.jpg](../images/utmz10.jpg)
-
 *8*{: .circle .circle-blue} Click on the star to the right of this coordinate system box to add this projection to your favourites, making it easier to use again in the future.
 
 *9*{: .circle .circle-blue} Click **OK** and accept the default transformation populating the **Geographic Transformation** parameter.
