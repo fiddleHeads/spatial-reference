@@ -9,11 +9,11 @@ parent: Exercises
 
 *1*{: .circle .circle-blue} From the same project in ArcGIS Pro, click on the the **CAN_lambert** tab representing a different map.
 
-Notice the difference in how the default topographic basemap appears in the previous map compared to this one. 
+Notice the difference in how the default topographic basemap appears in the previous map compared to this one.
 
 Reset the data source if you see the red exclamation point.
 
-Notice the units below the map in the centre. 
+Notice the units below the map in the centre.
 
 <details>
 <summary>What do these units tell us about the coordinate system this data and map are in?</summary>
@@ -28,31 +28,27 @@ The **Lambert Conformal Conic Projection** has characteristics which make it a g
 
 - most commonly used projection at Statistics Canada
 - retains conformality in mid-latitude regions having primarily an east-west direction
-- not equal area because distortion increaseas north and south of the standard parallel (line at which there is no distortion in the map projection)
+- not equal area because distortion increases north and south of the standard parallel (line at which there is no distortion in the map projection)
 
-*3*{: .circle .circle-blue} Click on the **Add Data** button.
+*3*{: .circle .circle-blue} Click on the **View** tab at the top of the screen and select **Catalog Pane**. This will open the pane on the right of your map.
 
-![addData.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/addData.jpg)
+*4*{: .circle .circle-blue} Right-click on **Folders** and select **Add Folder Connection**.
 
-*4*{: .circle .circle-blue} From the window that opens, click on the **Connect to Folder** button and navigate to the Downloads folder where you downloaded the data for this workshop and click **OK**.
+![catalogPane.jpg](images/catalogPane.jpg)
 
-![connect.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/connect.jpg)
+*5*{: .circle .circle-blue} Navigate to the Downloads folder where you downloaded the data for this workshop and click **OK**.
 
-*5*{: .circle .circle-blue} From the **shapefiles** folder, add the **CAN_WGS1984** shapefile.
+*6*{: .circle .circle-blue} From the **Catalog** pane, expand the **gisData** folder, then the **shapefiles** folder, and add the **CAN_WGS1984** shapefile to the map by dragging it into the **Contents** pane on the left.
 
-You will get a **Geographic Coordinate Systems Warning**.
+Even though you added a shapefile which is in a geographic coordinate system, the shapefile gets projected "on-the-fly" to match the coordinate system of the map, which in this case is in a projected coordinate system.
 
-This is because you are adding data that is in a geographic coordinate system to a map that it is in a projected coordinate system.
+ArcGIS Pro chooses a transformation between these two different kinds of coordinate systems that will project the data from one datum to another. You can view the transformations used in the **Map Properties** by right-clicking on the map name under **Drawing Order** in the **Contents** and then clicking on the **Transformation** section.
 
-You can let ArcMap choose a transformation between these two different kinds of coordinate systems that will project the data you are adding "on-the-fly."
-
-Or, if you have specific knowledge about a more appropriate transformation to use for your area or your data, you can choose the transformation yourself from the dropdown menu.
+![transformation.jpg](images\transformation.jpg)
 
 A **transformation** is a mathematical calculation used to convert coordinates referenced to one datum to coordinates referenced to another datum.
 
-*6*{: .circle .circle-blue} We will let ArcMap handle the transformation for us. Click close.
-
-You can see that these two datasets seem to line up perfectly and the units in the lower right appear as meters.
+You can see that these two datasets seem to line up perfectly and the units in the lower centre appear as meters.
 
 But projecting on-the-fly does not change the underlying data properties.
 
