@@ -5,4 +5,4 @@ nav_order: 7
 parent: Map Projections
 ---
 
-![xkcd.png](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/xkcd.png)
+![xkcd.png](../images/xkcd.png)

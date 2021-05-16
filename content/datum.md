@@ -13,7 +13,7 @@ This is a great video to introduce the topic of datums and how they relate to co
 
 So just what is a datum?
 
-Remember that the earth is unevenly shaped. 
+Remember that the earth is unevenly shaped.
 
 A datum mathematically defines the shape and size of the earth and it's orientation in space.
 
@@ -21,13 +21,13 @@ Measurements of the surface of the earth in different places collected over time
 
 Shifts in the surface of the earth, such as following a major earthquake like occurred in New Zealand in 2016, mean that new measurements have to be taken.
 
-![NZ](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/NZ.jpg)
+![NZ](../images/NZ.jpg)
 
 Another way to think about datums is that they are a reference for a starting point against which to determine other horizontal or vertical measurements.
 
-For example, a datum ensures that engineers, surveyors, planners, and mapmakers are all starting at the same “zero” elevation. 
+For example, a datum ensures that engineers, surveyors, planners, and mapmakers are all starting at the same “zero” elevation.
 
-![surveyor](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/canadianSurveyors.jpg)
+![surveyor](../images/canadianSurveyors.jpg)
 
 ### Horizontal and Vertical Datums
 
@@ -48,15 +48,15 @@ A **vertical** datum defines the height either above or below a nationally defin
 
 This history varies according to country.
 
-Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 because they are on the same continent, along with Mexico. 
+Although Canada and the U.S.A. have different surveying histories, they have used the same datum since 1913 because they are on the same continent, along with Mexico.
 
 In 1901, the Meades Ranch triangulation station in Kansas (established in 1891) was chosen as the point relative to which all land measurements in the United States were made, in part of because of its geographic centrality to the nation.
 
-![meadesRanch.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/meadesRanch.jpg)
+![meadesRanch.jpg](../images/meadesRanch.jpg)
 
-In 1913, both Canada and Mexico decided to adopt this station as the starting point as well. 
+In 1913, both Canada and Mexico decided to adopt this station as the starting point as well.
 
-As a result, the name of the datum was changed. 
+As a result, the name of the datum was changed.
 
 <details>
 <summary>Who can guess what that datum and subsequent datums became called?</summary>
@@ -65,16 +65,16 @@ North American Datum 1913, North American Datum 1927, and so on.
 </details>
 <br>
 
-Below is a breakdown of the differences between datums currently in use. 
+Below is a breakdown of the differences between datums currently in use.
 
 ### North American Datum 1927
 
-- uses the Clarke Ellipsoid of 1866 
+- uses the Clarke Ellipsoid of 1866
 - reference point at Meade’s Ranch, Kansas
 - many control points calculated from observations in the 1800s
 - developed using 26,000 stations
 
-![surveyMon.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/surveyMon.jpg)
+![surveyMon.jpg](../images/surveyMon.jpg)
 
 ### North American Datum 1983
 
@@ -112,7 +112,7 @@ For example, the geographic coordinates below are for a single point located wit
 | WGS_1984 | -122.46818353793 | 48.7438798534299 |
 
 
-While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey control data. 
+While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey control data.
 
 In the next section, we'll explore two different kinds of coordinate systems that are used in map making, geographic and projected coordinate systems.
 

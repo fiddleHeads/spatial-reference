@@ -19,7 +19,7 @@ In ArcGIS Pro, each map is automatically loaded with a default topographic basem
 
 ### Metadata
 
-Notice the units in the lower centre of the screen, below the map. 
+Notice the units in the lower centre of the screen, below the map.
 
 These give you a clue as to whether this data is in a geographic or projected coordinate system.
 
@@ -31,8 +31,6 @@ Let's look at the properties, or metadata, of the dataset.
 
 *6*{: .circle .circle-blue} Under the **Source** tab, expand the **Spatial Reference** section and note what is listed for **Geographic Coordinate System** and **Angular Unit**.
 
-![spatialRef.jpg](https://raw.githubusercontent.com/ubc-library-rc/map-projections/master/images/spatialRef.jpg)
+![spatialRef.jpg](../images/spatialRef.jpg)
 
 In the next exercise we'll go over projection on-the-fly.
-
-

@@ -7,7 +7,7 @@ has_children: true
 
 ## Map Projections
 
-Let's revisit the main takeaways about projections that we learned from the video at the beginning of class. 
+Let's revisit the main takeaways about projections that we learned from the video at the beginning of class.
 
 See if you can answer the questions below before you reveal the correct answer by clicking on the arrow.
 
@@ -32,7 +32,7 @@ The Mercator projection preserves direction and shape. In web maps, it's also go
 </details>
 <br>
 
-![mercator](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/mercator.jpg)
+![mercator](../images/mercator.jpg)
 
 ### Terminology
 
@@ -42,15 +42,15 @@ Lines of latitude are also called parallels and run east-west parallel to the eq
 
 Lines of longitude are called meridians and run north-south between the North and South Poles.
 
-![parallels](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/parallels.jpg)
+![parallels](../images/parallels.jpg)
 
 Map projections are typically categorized into three different types, based on the visualization of light shining through through the earth onto a surface, where the surface is a plane, a cylinder, or a cone, respectively.
 
-![lightSource2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lightSource2.jpg)
+![lightSource2.jpg](../images/lightSource2.jpg)
 
 There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with the three projection categories because they don't account for all projections and can lead to misunderstanding and confusion.
 
-Nevertheless, these three categories can be useful models for illustrating some map projections. 
+Nevertheless, these three categories can be useful models for illustrating some map projections.
 
 Projections based on each surface can be used for mapping particular parts of the world.
 
@@ -58,7 +58,7 @@ Where each respective surface touches the earth is also the area of the world po
 
 ### Planar/Azimuthal Projections
 
-![planar.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/planar.jpg)
+![planar.jpg](../images/planar.jpg)
 
 - area and shape distortion are circular around the point of contact, so these projections accommodate circular regions better than rectangular regions
 - point of contact can be anywhere on earth's surface but north and south poles most common point of contact
@@ -69,11 +69,11 @@ Where each respective surface touches the earth is also the area of the world po
 - any other measure of distance or direction will not be true
 - not good for world maps because only show about half of earth at a time
 
-![azimuth.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/azimuth.jpg)
+![azimuth.jpg](../images/azimuth.jpg)
 
 ### Cylindrical Projections
 
-![cylindrical](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cylindrical.jpg)
+![cylindrical](../images/cylindrical.jpg)
 
 - Mercator projection is a cylindrical projection with line of tangency at equator
 - produce maps with straight, evenly-spaced meridians and straight parallels that intersect meridians at right angles
@@ -82,11 +82,11 @@ Where each respective surface touches the earth is also the area of the world po
 - a cylinder wrapped around a globe will cover more of the globe than either a plane or cone can
 - tend to be better for world maps but still can't show All of earth's surface
 
-![cylindrical2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/cylindrical2.jpg)
+![cylindrical2.jpg](../images/cylindrical2.jpg)
 
 ### Conical Projections
 
-![conic](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic.jpg)
+![conic](../images/conic.jpg)
 
 - used for midlatitude zones that have an east-to-west orientation (because cone wider than it is tall)
 - single cone cannot show the whole globe

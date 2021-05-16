@@ -34,7 +34,7 @@ The **Lambert Conformal Conic Projection** has characteristics which make it a g
 
 *4*{: .circle .circle-blue} Right-click on **Folders** and select **Add Folder Connection**.
 
-![catalogPane.jpg](images/catalogPane.jpg)
+![catalogPane.jpg](../images/catalogPane.jpg)
 
 *5*{: .circle .circle-blue} Navigate to the Downloads folder where you downloaded the data for this workshop and click **OK**.
 
@@ -44,7 +44,7 @@ Even though you added a shapefile which is in a geographic coordinate system, th
 
 ArcGIS Pro chooses a transformation between these two different kinds of coordinate systems that will project the data from one datum to another. You can view the transformations used in the **Map Properties** by right-clicking on the map name under **Drawing Order** in the **Contents** and then clicking on the **Transformation** section.
 
-![transformation.jpg](images\transformation.jpg)
+![transformation.jpg](../images/transformation.jpg)
 
 A **transformation** is a mathematical calculation used to convert coordinates referenced to one datum to coordinates referenced to another datum.
 

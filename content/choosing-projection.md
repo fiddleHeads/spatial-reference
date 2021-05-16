@@ -30,7 +30,7 @@ It is useful to think about projections grouped by the properties they preserve.
 The British Columbia (BC) **Albers Equal Area Conic** projection is an example of an equal area projection. This is used province wide when mapping land-use data and is used by [BC Environment](https://ibis.geog.ubc.ca/~brian/Course.Notes/bceprojection.html) in part because it represents the whole province on one projection plane.
 
 Albers Equal Area Conic
-![albers.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/albers.jpg)
+![albers.jpg](../images/albers.jpg)
 
 **Conformal projections**
 
@@ -39,10 +39,10 @@ Albers Equal Area Conic
 - lat/long lines intersect at 90-degree angles on the map
 
 The **UTM Zone 10N** projection is a good example. This could be used, for example, when mapping the location of invasive plant species in Vancouver parks.
-For most GIS analysis work, equal area and conformal map projections are used. 
+For most GIS analysis work, equal area and conformal map projections are used.
 
 Lambert Conformal Conic
-![lambert.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/lambert.jpg)
+![lambert.jpg](../images/lambert.jpg)
 
 **Equidistant projections**
 
@@ -56,7 +56,7 @@ The **Two-Point Equidistant** projection is one example of this and allows one t
 - preserve direction from one point to all other points by maintaining some of the great circle arcs
 - can be combined with equal area, conformal, and equidistant projections
 
-The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant** projection are examples of azimuthal projections. 
+The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant** projection are examples of azimuthal projections.
 
 ### Characteristics of Map Projections
 
@@ -64,7 +64,7 @@ The **Lambert Equal Area Azimuthal** projection and the **Azimuthal Equidistant*
 | :------------- | :-------------: | -------------: |
 | Conformal | Preserves local shapes and angles | Topographic maps, navigation charts, weather maps |
 | Equal Area | Preserves areas | Dot density maps, thematic maps |
-| Equidistant| Preserves distance from one or two specified points to all other points on the map | Maps of airline distances, seismic maps showing distances from an earthquake epicenter | 
+| Equidistant| Preserves distance from one or two specified points to all other points on the map | Maps of airline distances, seismic maps showing distances from an earthquake epicenter |
 | Azimuthal | All directions are true from a single specified point (usually the center) to all other points on the map | Navigation and route planning maps |
 | Compromise | No point is completely distortion free; distortion is minimized near the center and along the equator | World maps |
 
