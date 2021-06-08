@@ -34,7 +34,7 @@ Albers Equal Area Conic
 <figure>
   <img src="../images/albers.jpg"
   alt="Albers">
-  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area projection, which uses two standard parallels and is good for long east-west regions, such as the U.S. or Canada. <a href="https://gisgeography.com/"> GISGeography.</a> </figcaption>
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area projection uses two standard parallels and is good for long east-west regions, such as the U.S. or Canada.</a> (c) <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>
