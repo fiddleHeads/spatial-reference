@@ -32,7 +32,15 @@ The Mercator projection preserves direction and shape. In web maps, it's also go
 </details>
 <br>
 
-![mercator](../images/mercator.jpg)
+
+<figure>
+  <img src="../images/webMercator.png"
+  alt="Mercator projection">
+  <figcaption><a href="https://commons.wikimedia.org/wiki/File:WebMercator.png">Which projection am I?</a> (c) <a href="https://commons.wikimedia.org/wiki/User:TheCrazyWhovian">TheCrazyWhovian</a> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">, CC BY-SA 4.0. </a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
 
 ### Terminology
 
@@ -42,11 +50,25 @@ Lines of latitude are also called parallels and run east-west parallel to the eq
 
 Lines of longitude are called meridians and run north-south between the North and South Poles.
 
-![parallels](../images/parallels.jpg)
+
+<figure>
+  <img src="../images/parallels.jpg"
+  alt="Lat Long Grid">
+  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf">Parallels and meridians form a graticule.</a> Melita Kennedy, Esri.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 Map projections are typically categorized into three different types, based on the visualization of light shining through through the earth onto a surface, where the surface is a plane, a cylinder, or a cone, respectively.
 
-![lightSource2.jpg](../images/lightSource2.jpg)
+
+<figure>
+  <img src="../images/lightSource2.jpg"
+  alt="Light source">
+  <figcaption><a href="http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/10%20-%20Types%20of%20map%20projections.html">The concept of projection illustrated by shining a light through the earth's surface and projecting it onto a two-dimensional surface, like a map. </a> Types of Map Projections,</a> <a href="http://www.geography.hunter.cuny.edu/~jochen/"> Jochen Albrecht.</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 There are also those who [recommend](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface) dispensing with the three projection categories because they don't account for all projections and can lead to misunderstanding and confusion.
 
@@ -58,7 +80,15 @@ Where each respective surface touches the earth is also the area of the world po
 
 ### Planar/Azimuthal Projections
 
-![planar.jpg](../images/planar.jpg)
+
+<figure>
+  <img src="../images/planar.jpg"
+  alt="Light source">
+  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf">Possible aspects of planar projections.</a> Melita Kennedy, Esri.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
+
 
 - area and shape distortion are circular around the point of contact, so these projections accommodate circular regions better than rectangular regions
 - point of contact can be anywhere on earth's surface but north and south poles most common point of contact
@@ -69,11 +99,24 @@ Where each respective surface touches the earth is also the area of the world po
 - any other measure of distance or direction will not be true
 - not good for world maps because only show about half of earth at a time
 
-![azimuth.jpg](../images/azimuth.jpg)
+
+<figure>
+  <img src="../images/azimuth.jpg"
+  alt="Azimuthal">
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/aziproj.html">Example of an azimuthal projection in the polar region. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 ### Cylindrical Projections
 
-![cylindrical](../images/cylindrical.jpg)
+<figure>
+  <img src="../images/cylindrical.jpg"
+  alt="Cylindrical aspects">
+  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf">Possible aspects of cylindrical projections.</a> Melita Kennedy, Esri.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 - Mercator projection is a cylindrical projection with line of tangency at equator
 - produce maps with straight, evenly-spaced meridians and straight parallels that intersect meridians at right angles
@@ -82,11 +125,24 @@ Where each respective surface touches the earth is also the area of the world po
 - a cylinder wrapped around a globe will cover more of the globe than either a plane or cone can
 - tend to be better for world maps but still can't show All of earth's surface
 
-![cylindrical2.jpg](../images/cylindrical2.jpg)
+
+<figure>
+  <img src="../images/cylindrical2.jpg"
+  alt="Cylindrical">
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/cylproj.html">Example of an cylindrical projection where the axis of the cylinder coincides with the Earth's axis of rotation. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 ### Conical Projections
 
-![conic](../images/conic.jpg)
+<figure>
+  <img src="../images/conic.jpg"
+  alt="conic">
+  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf">A representation of the simplest conic projection tangent to the globe along a line of latitude called the standard parallel.</a> Melita Kennedy, Esri.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 - used for midlatitude zones that have an east-to-west orientation (because cone wider than it is tall)
 - single cone cannot show the whole globe
@@ -95,8 +151,14 @@ Where each respective surface touches the earth is also the area of the world po
 - simplest conic projection contacts the globe along a single latitude line, a tangent, called the standard parallel
 - distortion increases north and south of the standard parallel
 
-![conic2.jpg](https://raw.githubusercontent.com/fiddleHeads/map-projections/master/images/conic2.jpg)
+<figure>
+  <img src="../images/conic2.jpg"
+  alt="Conical">
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/conproj.html">Example of a conic projection in the mid-latitude region. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 In the next section, we'll go over choosing the right projection for your data.
 
-This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/coordinate-systems.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/), and [Map Projections](https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/project.html).
+This section uses ideas and images from [Wikipedia](https://en.wikipedia.org/wiki/Map_projection#Projections_by_surface), [Projected Coordinate Systems](https://mgimond.github.io/Spatial/chp09-0.html#projected-coordinate-systems), [Understanding Map Projections](https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf), [Light Source Metaphor](https://www.mdpi.com/2220-9964/8/4/162/pdf), and [361 Lectures](http://www.geography.hunter.cuny.edu/~jochen/GTECH361/lectures/), and [Map Projections](https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/project.html).

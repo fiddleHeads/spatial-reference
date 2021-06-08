@@ -17,7 +17,13 @@ The standard projection used by the City of Vancouver is called **Universal Tran
 
 The UTM projection divides the earth into 60 zones as a system for assigning coordinates to locations on the surface of the earth.
 
-![utm.jpg](../images/utm.jpg)
+<figure>
+  <img src="../images/utm.jpg"
+  alt="Lat Long Grid">
+  <figcaption><a href="https://www.nrcan.gc.ca/earth-sciences/geography/topographic-information/maps/utm-grid-map-projections/utm-grid-universal-transverse-mercator-projection/9779/">The sixteen zones covering Canada in the UTM projection,</a> Government of Canada.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 Sixteen zones, from 7 to 22, cover Canada, and Vancouver falls in Zone 10 North. The zones are differentiated according to the northern and southern hemispheres.
 

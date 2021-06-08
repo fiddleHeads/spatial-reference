@@ -19,15 +19,29 @@ A datum mathematically defines the shape and size of the earth and it's orientat
 
 Measurements of the surface of the earth in different places collected over time by surveyors are used to define a geodetic datum.
 
-Shifts in the surface of the earth, such as following a major earthquake like occurred in New Zealand in 2016, mean that new measurements have to be taken.
+Shifts in the surface of the earth, such as following an  earthquake like occurred in New Zealand in 2011, mean that new measurements have to be taken. [Tectonic geodesy](https://geo.libretexts.org/Bookshelves/Seismology/Book%3A_Living_With_Earthquakes_in_The_Pacific_Northwest_(Yeats)/02%3A_Part_II-_Tectonic_Plates_Geologic_Time_and_Earthquakes/2.05%3A_Earthquake_Basics) compares surveys done at different times to measure elevation changes before and after earthquakes that cause deformations in the earth's crust.
 
-![NZ](../images/NZ.jpg)
+
+<figure>
+  <img src="../images/NZ.jpg"
+  alt="2011 NZ earthquake">
+  <figcaption><a href="https://www.zimbio.com/photos/Tristan+Webb/cVE-Fs1_NsT/Celebrity%20News">Rupture along River Road in Christchurch, NZ as a result of February 2011 earthquake.</a> Source: Martin Hunter/Getty Images AsiaPac.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 Another way to think about datums is that they are a reference for a starting point against which to determine other horizontal or vertical measurements.
 
 For example, a datum ensures that engineers, surveyors, planners, and mapmakers are all starting at the same “zero” elevation.
 
-![surveyor](../images/canadianSurveyors.jpg)
+
+<figure>
+  <img src="../images/canadianSurveyors.jpg"
+  alt="land surveyors">
+  <figcaption><a href="https://www.nrcan.gc.ca/maps-tools-publications/maps/100-years-geodetic-surveys-canada/9110">First precise vertical survey in 1883 along the Richelieu and St. Lawrence Rivers,</a> Government of Canada.</figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 ### Horizontal and Vertical Datums
 
@@ -52,7 +66,15 @@ Although Canada and the U.S.A. have different surveying histories, they have use
 
 In 1901, the Meades Ranch triangulation station in Kansas (established in 1891) was chosen as the point relative to which all land measurements in the United States were made, in part of because of its geographic centrality to the nation.
 
-![meadesRanch.jpg](../images/meadesRanch.jpg)
+
+<figure>
+  <img src="../images/meadesRanch.jpg"
+  alt="Meades Ranch">
+  <figcaption><a href="https://gisgeography.com/wp-content/uploads/2015/09/image1.jpg">Meades Ranch Triangulation Station. </a> <a href="https://gisgeography.com/geodetic-datums-nad27-nad83-wgs84/"> GISGeography. </a> </figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
 
 In 1913, both Canada and Mexico decided to adopt this station as the starting point as well.
 
@@ -74,7 +96,16 @@ Below is a breakdown of the differences between datums currently in use.
 - many control points calculated from observations in the 1800s
 - developed using 26,000 stations
 
-![surveyMon.jpg](../images/surveyMon.jpg)
+
+
+<figure>
+  <img src="../images/surveyMon.jpg"
+  alt="Flora Peak monument">
+  <figcaption> </a>  Survey monument on Flora Peak in Chilliwack Lake Provincial Park. Photo: Maya Daurio</a> </figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
 
 ### North American Datum 1983
 
@@ -110,6 +141,15 @@ For example, the geographic coordinates below are for a single point located wit
 | NAD_1927  | -122.466903686523 | 48.7440490722656 |
 | NAD_1983  | -122.46818353793 | 48.7438798543649 |
 | WGS_1984 | -122.46818353793 | 48.7438798534299 |
+
+<figure>
+  <img src="../images/datumShift.jpg"
+  alt="Flora Peak monument">
+  <figcaption> </a>  Offset between two points in Bellingham in NAD 1927 and NAD 1983, respectively. The point using coordinates from the WGS 1984 datum is projected on the fly and corresponds to the NAD 1983 point. Photo: Maya Daurio</a> </figcaption>
+</figure>
+
+
+<p>&nbsp;</p>
 
 
 While it is unlikely you'll ever encounter data registered to NAD 1913, there are still data you may encounter in NAD 1927, especially if you're working with survey control data.

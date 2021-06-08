@@ -10,7 +10,7 @@ This is just a selection of many resources available on coordinate systems and p
 
 [An Overview of Geodesy and Geographic Referencing Systems](http://pbcgis.com/projection_fundamentals/)
 
-[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/coordinate-systems.html)
+[Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/)
 
 [Coordinate Systems: What's the Difference?](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/coordinate-systems-difference/)
 
@@ -21,17 +21,17 @@ This is just a selection of many resources available on coordinate systems and p
 
 ### Map Projections
 
-[Bill’s Quick Guide to Map Projections](https://history.yale.edu/sites/default/files/files/Bill's quick guide to map projections.pdf)
+[Bill’s Quick Guide to Map Projections](https://history.yale.edu/sites/default/files/files/Bill%27s%20quick%20guide%20to%20map%20projections.pdf)
 
 [Interact with projection](http://metrocosm.com/compare-map-projections.html)
 
 [Mercator tool](http://thetruesize.com/)
 
-[Mike Bostock Map Transitions](http://bl.ocks.org/mbostock/3711652)
+[Mike Bostock Map Transitions](https://observablehq.com/@d3/projection-transitions)
 
 [Map projections: A working manual](https://pubs.er.usgs.gov/publication/pp1395)
 
-[Mercator Puzzle](https://hive.sewanee.edu/ldale/maps/10/06-LOCAL.html)
+[Mercator Puzzle Redux](https://bramus.github.io/mercator-puzzle-redux/)
 
 [Eight Ways of Projecting the World](http://metrocosm.com/compare-map-projections.html)
 
