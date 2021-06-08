@@ -96,12 +96,10 @@ Below is a breakdown of the differences between datums currently in use.
 - many control points calculated from observations in the 1800s
 - developed using 26,000 stations
 
-
-
 <figure>
   <img src="../images/surveyMon.jpg"
   alt="Flora Peak monument">
-  <figcaption> </a>  Survey monument on Flora Peak in Chilliwack Lake Provincial Park. Photo: Maya Daurio</a> </figcaption>
+  <figcaption> Survey monument on Flora Peak in Chilliwack Lake Provincial Park. Photo: Maya Daurio </figcaption>
 </figure>
 
 
@@ -145,7 +143,7 @@ For example, the geographic coordinates below are for a single point located wit
 <figure>
   <img src="../images/datumShift.jpg"
   alt="Flora Peak monument">
-  <figcaption> </a>  Offset between two points in Bellingham in NAD 1927 and NAD 1983, respectively. The point using coordinates from the WGS 1984 datum is projected on the fly and corresponds to the NAD 1983 point. Photo: Maya Daurio</a> </figcaption>
+  <figcaption> Offset between two points in Bellingham in NAD 1927 and NAD 1983, respectively. The point using coordinates from the WGS 1984 datum is projected on the fly and corresponds to the NAD 1983 point. Photo: Maya Daurio. </figcaption>
 </figure>
 
 
