@@ -34,7 +34,7 @@ Albers Equal Area Conic
 <figure>
   <img src="../images/albers.jpg"
   alt="Albers">
-  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area projection, which uses two standard parallels and is good for long east-west regions, such as the U.S. or Canada. <a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area projection, which uses two standard parallels and is good for long east-west regions, such as the U.S. or Canada. <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -53,7 +53,7 @@ Lambert Conformal Conic
 <figure>
   <img src="../images/lambert.jpg"
   alt="Lambert">
-  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Lambert Conformal Conic projection is well suited to conformal mapping of land masses in mid-latitudes with an east-west orientation, such as the U.S. or Canada. <a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Lambert Conformal Conic projection is well suited to conformal mapping of land masses in mid-latitudes with an east-west orientation, such as the U.S. or Canada. <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>
