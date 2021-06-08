@@ -22,7 +22,7 @@ If you are going to work with geospatial data, you need to understand the differ
 <figure>
   <img src="../images/GCS.jpg"
   alt="Lat Long Grid">
-  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf/">The world as a sphere with latitude and longitude values,</a> Melita Kennedy, Esri.</figcaption>
+  <figcaption><a href="https://kartoweb.itc.nl/geometrics/Map%20projections/Understanding%20Map%20Projections.pdf">The world as a sphere with latitude and longitude values,</a> Melita Kennedy, Esri.</figcaption>
 </figure>
 
 <p>&nbsp;</p>

@@ -30,7 +30,14 @@ It is useful to think about projections grouped by the properties they preserve.
 The British Columbia (BC) **Albers Equal Area Conic** projection is an example of an equal area projection. This is used province wide when mapping land-use data and is used by [BC Environment](https://ibis.geog.ubc.ca/~brian/Course.Notes/bceprojection.html) in part because it represents the whole province on one projection plane.
 
 Albers Equal Area Conic
-![albers.jpg](../images/albers.jpg)
+
+<figure>
+  <img src="../images/albers.jpg"
+  alt="Albers">
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area projection, which uses two standard parallels and is good for long east-west regions, such as the U.S. or Canada. <a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 **Conformal projections**
 
@@ -42,7 +49,14 @@ The **UTM Zone 10N** projection is a good example. This could be used, for examp
 For most GIS analysis work, equal area and conformal map projections are used.
 
 Lambert Conformal Conic
-![lambert.jpg](../images/lambert.jpg)
+
+<figure>
+  <img src="../images/lambert.jpg"
+  alt="Lambert">
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Lambert Conformal Conic projection is well suited to conformal mapping of land masses in mid-latitudes with an east-west orientation, such as the U.S. or Canada. <a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+</figure>
+
+<p>&nbsp;</p>
 
 **Equidistant projections**
 

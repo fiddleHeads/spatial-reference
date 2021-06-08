@@ -65,7 +65,7 @@ Map projections are typically categorized into three different types, based on t
 <figure>
   <img src="../images/lightSource2.jpg"
   alt="Light source">
-  <figcaption><a href="http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/10%20-%20Types%20of%20map%20projections.html">The concept of projection illustrated by shining a light through the earth's surface and projecting it onto a two-dimensional surface, like a map. </a> Types of Map Projections,</a> <a href="http://www.geography.hunter.cuny.edu/~jochen/"> Jochen Albrecht.</a></figcaption>
+  <figcaption><a href="http://www.geo.hunter.cuny.edu/~jochen/gtech201/lectures/lec6concepts/10%20-%20Types%20of%20map%20projections.html">The concept of projection illustrated by shining a light through the earth's surface and projecting it onto a two-dimensional surface, like a map. </a> Types of Map Projections, <a href="http://www.geography.hunter.cuny.edu/~jochen/"> Jochen Albrecht.</a></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -103,7 +103,7 @@ Where each respective surface touches the earth is also the area of the world po
 <figure>
   <img src="../images/azimuth.jpg"
   alt="Azimuthal">
-  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/aziproj.html">Example of an azimuthal projection in the polar region. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/aziproj.html">Example of an azimuthal projection in the polar region. </a>Map Projections, <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -129,7 +129,7 @@ Where each respective surface touches the earth is also the area of the world po
 <figure>
   <img src="../images/cylindrical2.jpg"
   alt="Cylindrical">
-  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/cylproj.html">Example of an cylindrical projection where the axis of the cylinder coincides with the Earth's axis of rotation. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/cylproj.html">Example of an cylindrical projection where the axis of the cylinder coincides with the Earth's axis of rotation. </a>Map Projections,<a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -154,7 +154,7 @@ Where each respective surface touches the earth is also the area of the world po
 <figure>
   <img src="../images/conic2.jpg"
   alt="Conical">
-  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/conproj.html">Example of a conic projection in the mid-latitude region. </a>Map Projections,</a> <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
+  <figcaption><a href="https://faculty.kutztown.edu/courtney/blackboard/Physical/05Project/conproj.html">Example of a conic projection in the mid-latitude region. </a>Map Projections, <a href="https://faculty.kutztown.edu/courtney/"> Richard S. Courtney.</a></figcaption>
 </figure>
 
 <p>&nbsp;</p>
