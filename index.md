@@ -26,7 +26,7 @@ If you have a Mac, it will be more challenging to download ArcGIS software, whic
 
 Please consult this [article](https://pro.arcgis.com/en/pro-app/get-started/run-pro-on-a-mac.htm) to learn more.
 
-Students are able to download ArcGIS Desktop for $30 a year.
+Students are able to download ArcGIS Desktop for \$30 a year.
 
 If you don't want to pay to use the software, you can [sign up for a free trial](https://www.esri.com/en-us/arcgis/trial?rmedium=esri_com_redirects01&rsource=https://links.esri.com/pro/trial).
 
@@ -50,7 +50,7 @@ For the purposes of this workshop, we will only be using **ArcGIS Pro**.
 
 You will also need to download data and project files.
 
-[Download](https://www.dropbox.com/s/95k3h46uxgplfp7/gisData.zip?dl=0){: .btn .btn-blue }
+[Download](https://github.com/ubc-library-rc/map-projections/raw/master/data/projections-workshop-data.zip){: .btn .btn-blue }
 
 Download the data and extract the compressed files into your **Downloads** folder.
 
