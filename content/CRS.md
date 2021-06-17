@@ -49,7 +49,7 @@ A **CRS** comprises:
 <figure>
   <img src="../images/cartSpherical.jpg"
   alt="cartesianSpherical">
-  <figcaption><a href="https://postgis.net/workshops/postgis-intro/geography.html">Cartesian versus spherical, or geographic, coordinates.</a> (c) <a href="https://postgis.net/">PostGIS.</a> </figcaption>
+  <figcaption><a href="https://postgis.net/workshops/postgis-intro/geography.html">Cartesian versus spherical, or geographic, coordinates.</a> <a href="https://postgis.net/">PostGIS.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>

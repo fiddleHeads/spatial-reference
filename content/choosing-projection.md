@@ -34,7 +34,7 @@ Albers Equal Area Conic
 <figure>
   <img src="../images/albers.jpg"
   alt="Albers">
-  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area Conic projection.</a> (c) <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Albers Equal Area Conic projection.</a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>
@@ -53,7 +53,7 @@ Lambert Conformal Conic
 <figure>
   <img src="../images/lambert.jpg"
   alt="Lambert">
-  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Lambert Conformal Conic projection.</a> (c) <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
+  <figcaption><a href="https://gisgeography.com/conic-projection-lambert-albers-polyconic/">The Lambert Conformal Conic projection.</a> <a href="https://gisgeography.com/">GISGeography.</a> </figcaption>
 </figure>
 
 <p>&nbsp;</p>
